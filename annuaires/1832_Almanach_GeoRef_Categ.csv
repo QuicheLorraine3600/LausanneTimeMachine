@@ -1,0 +1,1101 @@
+,id,nom,metier,nomRue,numRue,wkt,Point_info,Categ
+0,10,Aimeras,relieur et tient un cabinet littéraire,du Grand St Jean,29,POINT (6.6321566857675 46.5212157361552),Exact,services pas quotidiens
+1,100,Blondel,jardinier,Etraz,15,POINT (6.63859791070339 46.5193667425169),Exact,services pas quotidiens
+2,1000,Sudheimer (F.),commissionnaire,place de St François,0,POINT (6.63316095135088 46.5198507180287),Exact,services pas quotidiens
+3,1001,Sudheimer (H.),marchand parfumeur,rue du Petit­ St Jean,10,POINT (6.63328304752529 46.5208990674152),Exact,services pas quotidiens
+4,1002,Sutenhelm,couvreur,rue de Martheray,52,POINT (6.63796951431703 46.5199584160413),Exact,services pas quotidiens
+5,1003,Sutenhelm,ferblantier,rue Martheray,52,POINT (6.63796951431703 46.5199584160413),Exact,services pas quotidiens
+6,1004,Tardent (Fréderique),institutrice,la Barre,53,POINT (6.63606157009873 46.5251304735849),bigger,éducation
+7,1005,Tavernier (Mme.),traiteur,place de St Laurent,13,POINT (6.63056624220695 46.5223747951496),only,alimentation quotidienne
+8,1006,Teppel,charcutier,rue du Grand St Jean,52,POINT (6.63046207023712 46.5221402102708),Exact,alimentation quotidienne
+9,1007,Tesse,serrurier,rue St Etienne,2,POINT (6.63490466213158 46.5216004999656),Exact,services pas quotidiens
+10,1008,Testuz (veuve),cabinet littéraire,rue de la Mercerie,16,POINT (6.63416709276564 46.521636880451),Exact,éducation
+11,1009,Thélin,cordonnier,montée de la Palud,14,POINT (6.63339572007778 46.5215408302199),Exact,textile
+12,101,* Blondel,menuisier,Etraz,15,POINT (6.63859791070339 46.5193667425169),Exact,services pas quotidiens
+13,1010,Throst,traiteur,rue du Pré,4,POINT (6.63405319596702 46.5210449923896),Exact,alimentation quotidienne
+14,1011,Thuillard,relieur,montée de la Palud,7,POINT (6.63320668057289 46.5213082459182),Exact,services pas quotidiens
+15,1012,Tirppel,fabricant de bas,place de St Laurent,26,POINT (6.63056624220695 46.5223747951496),only,textile
+16,1013,Tissot,charpentier,Halle de St Laurent,71,POINT (6.62879663769884 46.5234251178521),bigger,services pas quotidiens
+17,1014,Tissot,instituteur,Cité-derrière,27,POINT (6.63596890973263 46.5231322727384),Exact,éducation
+18,1015,Tissot,serrurier,escaliers du marché,18,POINT (6.6342341969729155 46.5224330995526),neighbour,services pas quotidiens
+19,1016,Tondu,fournier,rue Martheray,58,POINT (6.6376861144254 46.519649681858),Exact,artisanat
+20,1017,Tonnay,menuisier,escaliers du marché,6,POINT (6.633689324097145 46.522167298639346),neighbour,services pas quotidiens
+21,1018,Torny (Mme),empailleuse de chaises,rue du Grand St Jean,50,POINT (6.63050682428613 46.5220478278694),Exact,artisanat
+22,1019,Trambagiolo,marchand de parapluies,rue de Bourg,13,POINT (6.63597097506305 46.5200841474951),Exact,artisanat
+23,102,Blum,laitier,rue St Pierre,21,POINT (6.63665328020109 46.519646857485),Exact,alimentation quotidienne
+24,1020,Troyon,épicerie et tabac,place de la Palud,9,POINT (6.63233975661089 46.5221506247838),Exact,services quotidiens
+25,1021,Truan,directeur des postes,maison des postes,0,POINT (6.6327116 46.5196053),Exact,services quotidiens
+26,1022,Truan (J.),écrivain et copiste,Rue de la Barre,15,POINT (6.63428153487711 46.5216034136471),Exact,éducation
+27,1023,Truschel,brasseur de bière,rue Chaucrau,16,POINT (6.631200790552895 46.52314453234785),neighbour,alimentation quotidienne
+28,1024,Techoudy,chaudronnier,Montée St François,17,POINT (6.63336954261608 46.5200647876148),Exact,artisanat
+29,1026,Turin,tailleur,montée de la Palud,16,POINT (6.63340197966406 46.5214185082298),Exact,textile
+30,1027,Tzelveger (Dlle.),lingère,Halle de St Laurent,47,POINT (6.62812499279554 46.5236452375157),Exact,textile
+31,1028,Ulmer (frères),quincaillerie,montée­ de la Palud,11,POINT (6.633178512434705 46.521449950170606),neighbour,services pas quotidiens
+32,1029,Vachet (père et fils),fabricants de cartes,place de St Laurent,9,POINT (6.63056624220695 46.5223747951496),only,artisanat
+33,103,Bocion,menuisier,rue Chaucrau,23,POINT (6.631200790552895 46.52314453234785),neighbour,services pas quotidiens
+34,1030,Valet,café et billard,Grand St Jean,1,POINT (6.63072693486215 46.5219932129062),Exact,services pas quotidiens
+35,1031,Vallon,tailleur,montée de la Palud,1,POINT (6.63334439147058 46.5210067462674),Exact,textile
+36,1032,Vallotton (L.),draperie,montée de St Laurent,18,POINT (6.63142725283847 46.5223727640304),Exact,textile
+37,1033,Vallotton,horloger,Grand St Jean,20,POINT (6.632140770910995 46.5212960211754),neighbour,services pas quotidiens
+38,1034,VanderMuelen,banquier,Montée de Pépinet,29,POINT (6.63200359669325 46.520274658643),Exact,services quotidiens
+39,1035,Vannod,aubergiste,auberge du Pont,24,POINT (6.63345101874466 46.5208043227176),Exact,alimentation quotidienne
+40,1036,Vannaz (Rod.),charcutier,rue de Bourg,26,POINT (6.63615107207762 46.520084147495),Exact,alimentation quotidienne
+41,1037,Vanney,traiteur,rue de la Madeleine,10,POINT (6.63309749304038 46.5226440740895),Exact,alimentation quotidienne
+42,1038,Varnicle,tailleur,rue de la Mercerie,6,POINT (6.6344074211997 46.5216526295281),Exact,textile
+43,1039,Vasserot,bijoutier,montée de la Palud,19,POINT (6.63344204101613 46.5212755117514),Exact,artisanat
+44,104,* Bohy,charpentiers,Etraz,40,POINT (6.63792551302031 46.5193324623693),Exact,artisanat
+45,1040,Vaudoncourt (de),instituteur,rue de la Ma­deleine,13,POINT (6.63309600534825 46.522403519767),Exact,éducation
+46,1041,Vaunaise,voiturier,Cheneau de Bourg,43,POINT (6.63656942984737 46.5205617989412),Exact,services pas quotidiens
+47,1042,Vautier,avocat,rue de la Mercerie,18,POINT (6.63393534748993 46.5217353121078),Exact,services pas quotidiens
+48,1043,Vellini,maître de langue italienne,rue de la Mercerie,16,POINT (6.63416709276564 46.521636880451),Exact,éducation
+49,1044,Velthoz,cordonnier,rue de Bourg,25,POINT (6.63608993822863 46.520084147495),Exact,textile
+50,1045,Verdeil (fils),docteur en médecine,rue St Pierre,10,POINT (6.636880051086525 46.51965438353555),neighbour,services pas quotidiens
+51,1046,Vernaud (Dan.),marchand et tailleur,place François,44,POINT (6.63373357622335 46.5200839694089),bigger,artisanat
+52,1047,Verrey,meunier,rue du Pré,26,POINT (6.635734101720825 46.52091202638505),neighbour,alimentation pas quotidienne
+53,1048,Veyrassat (Dlles.),tailleuses en dames,rue St Pierre,22,POINT (6.63659515746808 46.5196806990505),Exact,textile
+54,1049,Vez,traiteur,montée de St Laurent,7,POINT (6.63143957592506 46.5222636585724),Exact,alimentation quotidienne
+55,105,Bonmottet,tailleur,rue du Petit St Jean,2,POINT (6.63281107472154 46.5210687691895),Exact,textile
+56,1050,Vherger,jardinier,rue de Martheray,40,POINT (6.63840222710792 46.5204310513564),Exact,services pas quotidiens
+57,1051,Vieland,charcutier,Petit St Jean,3,POINT (6.63290121276364 46.5210162219963),Exact,alimentation quotidienne
+58,1052,Villard,cordonnier,rue Chaucrau,16,POINT (6.631200790552895 46.52314453234785),neighbour,textile
+59,1053,Vincent (Em.) (fils),imprimeur et libraire et éditeur,rue du Pré,32,POINT (6.63546855989616 46.5208375750095),Exact,services pas quotidiens
+60,1054,Vincent (Dlle.),modiste,rue de Bourg,36,POINT (6.63469520250944 46.5200190442999),Exact,textile
+61,1055,Vincent (Dlle),épicerie,rue du Pré,21,POINT (6.63553904395553 46.5209323840619),Exact,alimentation quotidienne
+62,1056,Vincent (Jean) (fils),relieur,rue de Bourg,18,POINT (6.6356273036958 46.5200841474951),Exact,services pas quotidiens
+63,1057,Vincent,meunier,rue du Pré,6,POINT (6.63425448162876 46.5210762441743),Exact,alimentation pas quotidienne
+64,1058,Vine,notaire et commis des péages,maison des postes,0,POINT (6.6327116 46.5196053),Exact,services pas quotidiens
+65,1059,Vogel,tourneur,Cité-derrière,10,POINT (6.63612032944279 46.5237361670479),Exact,artisanat
+66,106,Bonnet,cordonnier,place de la Palud,21,POINT (6.63326782667545 46.5219078280913),Exact,textile
+67,1060,Vogel,tisserand,Cité-derrière,34,POINT (6.63552959573687 46.523011692913),bigger,textile
+68,1061,Voirol (J.-P.),menuisier,rue du Pré,9,POINT (6.63455521069253 46.5210517246306),Exact,services pas quotidiens
+69,1062,Volmar,artiste et peintre,Grand St Jean,5,POINT (6.630953628572881 46.5217708018141),neighbour,services pas quotidiens
+70,1063,Vonwhiller,cordonnier,Martheray,31,POINT (6.63969978752665 46.5211118780864),Exact,textile
+71,1064,Vullyamoz et Duclieu,courtiers,place de St François,1,POINT (6.6338149555526 46.5199488527503),Exact,services pas quotidiens
+72,1065,Vullyamoz-Blanc,docteur en médecine et chirurgie,Chemin-Neuf,3b,POINT (6.63328546336381 46.5239705183814),Exact,services pas quotidiens
+73,1066,Vullyamoz (L.),médecin et chirurgien,rue du Grand St Jean,42,POINT (6.63075758264875 46.5216842396054),Exact,services pas quotidiens
+74,1067,Vullyamoz,commissaire et arpenteur,rue du Grand St Jean,42,POINT (6.63075758264875 46.5216842396054),Exact,services pas quotidiens
+75,1068,Vullyamoz (Dlle.),institutrice,montée de St Laurent,4,POINT (6.63167437822856 46.5222636585723),Exact,éducation
+76,1069,Vuilleumier (Dlle.),modiste,rue de Bourg,34,POINT (6.63509558378297 46.5199559334918),Exact,textile
+77,107,Bonnet,perruquier,place du Pont,2,POINT (6.63386842605189 46.5210229740759),Exact,artisanat
+78,1070,Vuilleumier (Mme.),institutrice,Rue St Pierre,19,POINT (6.63677101599357 46.5195955823457),Exact,éducation
+79,1071,Wächterhäuser,marchand,rue du Pré,36,POINT (6.63512698686488 46.5208808398165),Exact,services pas quotidiens
+80,1072,Walter (fils),loueur d'ânesses,Halle de St-Laurent,70,POINT (6.62879663769884 46.5234251178521),bigger,services pas quotidiens
+81,1073,Wamsganz,tonnelier,Grand St Jean,40,POINT (6.6312232182236 46.5214514996868),Exact,alimentation pas quotidienne
+82,1074,Wasser,aubergiste au Petit-Maure,Cité-devant,24,POINT (6.63541883667288 46.52355143392095),neighbour,alimentation quotidienne
+83,1075,Weber,instituteur,Petit St-Jean,10,POINT (6.63328304752529 46.5208990674152),Exact,éducation
+84,1076,Wagnière,courtier,montée St François,10,POINT (6.63270460735598 46.51990738380955),neighbour,services pas quotidiens
+85,1077,Weber (père et fils),musiciens et fabricants de cordes pour instruments,rue du Pré,27,POINT (6.635734101720825 46.52091202638505),neighbour,services pas quotidiens
+86,1078,Wedely (veuve),teinturière,rue de la Mer,23,POINT (6.63349331483441 46.5218071671047),Exact,textile
+87,1079,Wegmann,tonnelier,rue de la Mercerie,6,POINT (6.6344074211997 46.5216526295281),Exact,alimentation pas quotidienne
+88,108,Bonnet (Elle.),tailleuse,Montée St Laurent,4,POINT (6.63035680336778 46.52237752077125),neighbour,textile
+89,1080,Wehrlin (Dlles.),modistes,rue de Bourg,31,POINT (6.6354405976165 46.5199397578536),Exact,textile
+90,1081,Wehrlin,tonnelier,Cheneau de Bourg,37,POINT (6.63645388129086 46.5207331103547),Exact,alimentation pas quotidienne
+91,1082,Weibel (Louis),agent de change,place de St François,16,POINT (6.63323835933418 46.520056889227),Exact,services pas quotidiens
+92,1083,Weibel (B.),marchand de tourbe,rue Martheray,54,POINT (6.63787782424609 46.519858796832),Exact,services pas quotidiens
+93,1084,Weibel,confiseur,place St François,9,POINT (6.63264311519259 46.5198910228171),Exact,alimentation pas quotidienne
+94,1085,Weibel,boulanger,Rue du Grand Chène,28,POINT (6.63156270920303 46.5198404431308),bigger,alimentation quotidienne
+95,1086,bis Weibel (Dlle.),tailleuse en dames,rue Chaucrau,35,POINT (6.6309030300542 46.5226606362045),Exact,textile
+96,1087,bis Weibel,tisserand,Halle de St Laurent,18,POINT (6.6284427899485 46.5233662324079),Exact,textile
+97,1087,Weibel (Dlle.),tailleuse en dames,montée de St François,24,POINT (6.63345101874466 46.5208043227176),Exact,textile
+98,1088,bis Wenger (David),fabricant de papiers peints et miroitier,rue de Bourg,8,POINT (6.6344788359848 46.5201577264319),Exact,artisanat
+99,1088,Wellenberger,menuisier,rue du Grand St Jean,34,POINT (6.63166469346202 46.5212610753754),Exact,services pas quotidiens
+100,1089,bis Wenger (Ch.),gypsier,Halle de St Laurent,59,POINT (6.62879663769884 46.5234251178521),bigger,services pas quotidiens
+101,1089,Wenger (fils),architecte,rue de Bourg,8,POINT (6.6344788359848 46.5201577264319),Exact,services pas quotidiens
+102,109,Bastian-Petter,ferblantier,montée de St Laurent,8,POINT (6.63128832290748 46.5222666320885),Exact,services pas quotidiens
+103,1090,bis Weidmann,maréchal,Etraz,17,POINT (6.63967193331521 46.5192283171),Exact,services pas quotidiens
+104,1090,Wenger,tailleur,rue de la Madeleine,16,POINT (6.63309451765611 46.5221998154866),Exact,textile
+105,1091,Weidmann,charron,Martheray,1,POINT (6.63762451676704 46.5198245226053),Exact,services pas quotidiens
+106,1091,bis Weiler (frères),marchands,rue du Petit-St Jean,15,POINT (6.63289870892911 46.5211859234045),Exact,services pas quotidiens
+107,1092,Weiler (frères),négociant,Montée de St Laur,8,POINT (6.63128832290748 46.5222666320885),Exact,services pas quotidiens
+108,1092,bis Will (A.),fabricant de bas,Rue de Chaucrau,14,POINT (6.631200790552895 46.52314453234785),neighbour,textile
+109,1093,Willer (G.),gypsier,Grand St Jean,39,POINT (6.6312956992329 46.5214197623479),Exact,services pas quotidiens
+110,1093,bis Willer (Christ),charpentier,Martheray,,POINT (6.63762451676704 46.5198245226053),smaller,services pas quotidiens
+111,1094,Witschy,maçon,Cheneau de Bourg,41,POINT (6.63674930440435 46.5206265530796),Exact,services pas quotidiens
+112,1094,bis Wulschleger,relieur,place de la Palud,5,POINT (6.63254776299398 46.5220272420545),Exact,services pas quotidiens
+113,1095,Wursten,cordonnier,Rue de la Madeleine,18,POINT (6.63308261611873 46.5220380798859),Exact,textile
+114,1096,Yenny,chapelier,Grand St Jean,33,POINT (6.6317152105291 46.5212565414551),Exact,services pas quotidiens
+115,1097,Zaza (frères),marchands et vitriers,rue de Madeleine,14,POINT (6.63309600534827 46.522329817804),Exact,artisanat
+116,1098,Ziegler,menuisier,rue Chaucrau,27,POINT (6.63113531674255 46.522936005077),Exact,services pas quotidiens
+117,1099,Ziegler (Jeannette),terre de pipes et fayence,du Grand St Jean,41,POINT (6.63085422399447 46.5216237877744),Exact,artisanat
+118,11,Ammann (Dlle.),institutrice,Montée St Laurent,13,POINT (6.62986078797957 46.5228956464317),Exact,éducation
+119,110,Bontems (veuve et fils),toileries,montée St Laurent,20,POINT (6.6299463059655 46.5230308574464),Exact,textile
+120,1100,Zimmer,luthier,Escaliers du marché,8,POINT (6.63374349874666 46.5222202700266),Exact,artisanat
+121,1101,Zimmermann (A.),quincailler,place la Palud,18,POINT (6.63268942251345 46.5221641968668),Exact,artisanat
+122,1102,bis Zimmerly,marchand et fripier,Rue du Pré,16,POINT (6.6351052364956 46.5209813010389),Exact,services pas quotidiens
+123,1103,bis Zulauf,menuisier,Cité-derrière,37,POINT (6.63552959573687 46.523011692913),bigger,services pas quotidiens
+124,1103,Zink,médecin et chirurgien,rue de la Madeleine,1,POINT (6.63292791259058 46.5221308835658),Exact,services pas quotidiens
+125,1104,* Zwahlen (Jean.-P.),lithographe,rue du Grand St Jean,36,POINT (6.63150435668389 46.5213290841347),Exact,artisanat
+126,111,Borde (Elles.),couturières,Escalier du marché,11,POINT (6.63388986534363 46.5223170570722),Exact,textile
+127,112,Borgeaud,toileries,rue de Bourg,27,POINT (6.6362122059266 46.520084147495),Exact,textile
+128,113,Borloz,tailleur,rue du Pré,20,POINT (6.63539668014171 46.5209357657566),Exact,textile
+129,114,Boucheries (Mme.),toileries,rue de Chaucrau,1,POINT (6.63067411241478 46.5225777357105),Exact,textile
+130,115,Boucheries (Louis),notaire,Chaucrau,1,POINT (6.63067411241478 46.5225777357105),Exact,services pas quotidiens
+131,116,Bouchet (Mme.),blanchisseuse,rue de Martheray,41,POINT (6.63835075198037 46.5203912040412),Exact,textile
+132,117,Bouffa,marchand d'estampes,Place St François,1,POINT (6.6338149555526 46.5199488527503),Exact,services pas quotidiens
+133,118,Bourgeois (J.-P.),droguiste,Escalier du marché,1,POINT (6.63348878285068 46.521910288734),Exact,textile
+134,119,Bourgogne,fabricant d 'arcs et flèches,place de St Laurent,14,POINT (6.63056624220695 46.5223747951496),only,artisanat
+135,12,Amy (Moïse),boulanger,Cheneau de Bourg,23,POINT (6.636238926791935 46.52065777025345),neighbour,alimentation quotidienne
+136,120,Bourloz,draperie,rue St Pierre,6,POINT (6.63664784895077 46.5198624949525),Exact,textile
+137,121,* Bovard,menuisier,Cité-derrière,29,POINT (6.63578166114428 46.5229836126412),Exact,services pas quotidiens
+138,122,Bovey-Simmen (Mme.),tient des pensionnaires,rue de la Mercerie,8,POINT (6.63453902962788 46.5216260529578),Exact,services quotidiens
+139,123,Braissant,marchand de bois,montée de Pépinet,30,POINT (6.63200359669325 46.520274658643),bigger,services pas quotidiens
+140,124,Brandi (A -L .),commission et recouvrements,à Ouchy,,POINT (6.627461 46.507124),Exact,services pas quotidiens
+141,125,Brandt,cordonnier,Grand St Jean,20,POINT (6.632140770910995 46.5212960211754),neighbour,textile
+142,126,Brandt,laitier,rue de la Mercerie,15,POINT (6.63428153487711 46.5216034136471),Exact,alimentation quotidienne
+143,127,Brélaz,traiteur,Grand St Jean,40,POINT (6.6312232182236 46.5214514996868),Exact,alimentation quotidienne
+144,128,* Breymeyer,coutelier,Cheneau de Bourg,10,POINT (6.63619066370727 46.5206043726329),Exact,artisanat
+145,129,Breymeyer,coutelier,rue du Pré,10,POINT (6.63462080257112 46.5210502842161),Exact,artisanat
+146,13,Atny,relieur,Cheneau de Bourg,23,POINT (6.636238926791935 46.52065777025345),neighbour,services pas quotidiens
+147,130,Breymeyer,cordonnier,rue du Pré,9,POINT (6.63455521069253 46.5210517246306),Exact,textile
+148,131,Brindeau (Mme.),institutrice,St-Pierre,1,POINT (6.63630889276248 46.5200176606318),Exact,éducation
+149,132,Brouppaclier (Mme. veuve),épicerie,rue de Bourg,21,POINT (6.63584870736508 46.52008585288225),neighbour,alimentation quotidienne
+150,133,Brouppacher-Lagier,laines et ouvrages en tricots,rue de Bourg,37,POINT (6.63445885409248 46.5200226853058),Exact,textile
+151,134,Brun,traiteur,rue de la Madeleine,11,POINT (6.63309005457951 46.5225744669908),Exact,alimentation quotidienne
+152,135,Brun,loueur de chevaux,Montée de Pépinet,7,POINT (6.63240698528515 46.5200027288224),Exact,services pas quotidiens
+153,136,Brun,voiturier,Cheneau de Bourg,50,POINT (6.63644196906863 46.5202986832305),Exact,services pas quotidiens
+154,137,Brunner,marchand,Mercerie,19,POINT (6.63385237695912 46.5217668102003),Exact,services pas quotidiens
+155,138,Brunner (Amédée),chaudronnier,Escaliers marché,9,POINT (6.63380242555843 46.5222621239053),Exact,artisanat
+156,139,Buffat,boulanger,rue du Pré,47,POINT (6.63425536901887 46.520958428194),Exact,alimentation quotidienne
+157,14,André-Meyrat,négociant en soieries et marchand nouveautés,place St François,8,POINT (6.632479015252255 46.51961881989695),neighbour,textile
+158,140,Bugnion,banquier,rue de la Mercerie,11,POINT (6.6345805148933 46.5215335270195),Exact,services quotidiens
+159,141,Bugnion,fournier,rue du Grand St Jean,12,POINT (6.63153074942098 46.5214640112789),Exact,artisanat
+160,142,Bugnion,cabaretier,rue du Pré,14,POINT (6.63498224192934 46.5209978593139),Exact,alimentation pas quotidienne
+161,143,Buhler,traiteur,Cheneau de Bourg,49,POINT (6.6364824706245 46.5203437654522),Exact,alimentation quotidienne
+162,144,Bujard,organiste,montée de St François,22,POINT (6.63357960184327 46.5206817188869),Exact,services pas quotidiens
+163,145,Burger,cordonnier,Cité-devant,26,POINT (6.63530285330956 46.5233227065327),Exact,textile
+164,146,Burger (Henri),fabricant de brosses,Cité-devant,22,POINT (6.63549281031405 46.523690932116),Exact,artisanat
+165,147,Burgin (Dlle.),tailleuse,Montée de St François,1,POINT (6.63375778127985 46.5208131704059),Exact,textile
+166,148,Burnier,menuisier,rue de Martheray,48,POINT (6.63812715689512 46.5201399439086),Exact,services pas quotidiens
+167,149,Burnier,docteur médecin,Montée de Pépinet,7,POINT (6.63240698528515 46.5200027288224),Exact,services pas quotidiens
+168,15,Anet,avocat,Martheray,3,POINT (6.63790683936758 46.5202854636966),Exact,services pas quotidiens
+169,150,Bury (veuve),épicerie et terre de pipes,place de la Palud,,POINT (6.63285041824104 46.5219863716031),Exact,artisanat
+170,151,Bury,instituteur,Escaliers du marché,9,POINT (6.63380242555843 46.5222621239053),Exact,éducation
+171,152,Bury,cordonnier,rue St Pierre,12,POINT (6.636880051086525 46.51965438353555),neighbour,textile
+172,153,Bury,chapelier,place de la Palud,23,POINT (6.63345421933128 46.5217209455107),Exact,services pas quotidiens
+173,154,Busset,couvreur,Martheray,15,POINT (6.63997675654525 46.521370087573),Exact,services pas quotidiens
+174,155,Busset,cloutier,Martlieray,35,POINT (6.6391203129526 46.5208348572327),Exact,artisanat
+175,156,Bussy (Mme.),sage-femme,Cité-derrière,18,POINT (6.63629972109984 46.5237755022351),Exact,services pas quotidiens
+176,157,* Bussy,menuisier,Cité-derrière,18,POINT (6.63629972109984 46.5237755022351),Exact,services pas quotidiens
+177,158,Buvelot,maître d'écriture,Place de la Palud,18,POINT (6.63268942251345 46.5221641968668),Exact,éducation
+178,159,Buvelot-Ciliax,commissionnaire-chargeur pour les pays et s'occupe de recouvrements et ventes et achats pour compte d 'amis,place de St François,,POINT (6.63316095135088 46.5198507180287),Exact,services pas quotidiens
+179,16,Archinard,maître de danse,Grand St Jean,1,POINT (6.63072693486215 46.5219932129062),Exact,éducation
+180,160,Cachemaille,cabaretier,Petit St Jean,6,POINT (6.63306521392357 46.520950753291),Exact,alimentation pas quotidienne
+181,161,Calante,marchand de bois et épicier,St Etienne,2,POINT (6.63490466213158 46.5216004999656),Exact,services pas quotidiens
+182,162,Cassat,ancien juge d'appel,Cité-derrière,2,POINT (6.63602176259828 46.5235367779022),smaller,services pas quotidiens
+183,163,Cassat,maçon,Cheneau de Bourg,16,POINT (6.636238926791935 46.52065777025345),neighbour,services pas quotidiens
+184,164,Caraby,jardinier,rue de Martlieray,40,POINT (6.63840222710792 46.5204310513564),Exact,services pas quotidiens
+185,165,Cavin (L.),cabaretier,rue d' Etraz,1,POINT (6.63769450027692 46.519516054258),Exact,alimentation pas quotidienne
+186,166,Cavin (Dlle. Sophie),tailleuse en dames,Petit­ St Jean,4,POINT (6.632983213343605 46.52098348764365),neighbour,textile
+187,167,Centurier-Stiffel,toileries et percales,Montée de St François,14,POINT (6.63373022775883 46.5203252814367),Exact,textile
+188,168,Chabot,institutrice,Grand St Jean,31,POINT (6.63188652927834 46.5212036456902),Exact,éducation
+189,169,Chabot,coiffeur,montée de St François,9,POINT (6.63391942860389 46.5202949462265),Exact,services pas quotidiens
+190,17,Arlaud,peintre et directeur de l'école de dessin,de la Madeleine,13,POINT (6.63309600534825 46.522403519767),Exact,éducation
+191,170,Chabot,voiturier,rue St Pierre,17,POINT (6.63683386217668 46.5195557987627),Exact,services pas quotidiens
+192,171,Challet (DIE.),modiste,montée de Pépinet,29,POINT (6.63200359669325 46.520274658643),Exact,textile
+193,172,Chambaz,laitier,rue du Pré,16,POINT (6.6351052364956 46.5209813010389),Exact,alimentation quotidienne
+194,173,Champagnac,fabricant de parapluies,rue Bourg,1,POINT (6.63393839628907 46.5201327390099),Exact,artisanat
+195,174,Champaud,serrurier,Halle de St Laurent,49,POINT (6.62822397204445 46.5236160504293),Exact,services pas quotidiens
+196,175,Chapelle et Andrist,teinturiers,Chemin-Neuf,2,POINT (6.63328546336381 46.5239705183814),smaller,textile
+197,176,Chapuis,boulanger,Grand St Jean,19,POINT (6.632140770910995 46.5212960211754),neighbour,alimentation quotidienne
+198,177,Chapuis (Mme.),sage-femme,Grand St Jean,49,POINT (6.63054038982289 46.5219990704276),Exact,services pas quotidiens
+199,178,Chapuis (Mme.),tailleuse,Halle de St Laurent,47,POINT (6.62812499279554 46.5236452375157),Exact,textile
+200,179,Chapuis (Jaq.),épicerie,Etraz,39,POINT (6.63808925590561 46.5193124719802),Exact,alimentation quotidienne
+201,18,Arnold,cordonnier,rue St Pierre,14,POINT (6.636880051086525 46.51965438353555),neighbour,textile
+202,180,Chapuis,voiturier,Cheneau de Bourg,50,POINT (6.63644196906863 46.5202986832305),Exact,services pas quotidiens
+203,181,Chapuis (Dlle. Elisa),terre de pipes et verreries,place de la Palud,14,POINT (6.63236844714646 46.5223171910238),Exact,artisanat
+204,182,Chapuis (veuve),traiteur,Cité-derrière,12,POINT (6.63612427211652 46.5239518320348),Exact,alimentation quotidienne
+205,183,Chapuisat (Mme.),sage-femme,rue du Pré,5-,POINT (6.63413371023171 46.5210599080163),Exact,services pas quotidiens
+206,184,Chardon (Dlle. Marguer*.),marchande,Petit Jean,8,POINT (6.63312405403438 46.5209404161197),Exact,services pas quotidiens
+207,185,Charton (Mme.),courtepointière,Cheneau de,41,POINT (6.63674930440435 46.5206265530796),Exact,services pas quotidiens
+208,186,Châleanat,intendant des postes,maison des postes,,POINT (6.6327116 46.5196053),Exact,services quotidiens
+209,187,Chatelanat,marchand frippier,Petit St Jean,,POINT (6.6327271962657 46.5211316534687),smaller,services pas quotidiens
+210,188,Chatelanat (Mme. veuve),courtepointière,de St François,16,POINT (6.63323835933418 46.520056889227),Exact,services pas quotidiens
+211,189,Chavan,jardinier,place de St Laurent,4,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+212,19,* Arny (Benjamin),menuisier,la Barre,32,POINT (6.63603804167853 46.525317695715),neighbour,services pas quotidiens
+213,190,Chavan (Dlle.),marchande,Chemin de Bourg,5,POINT (6.6362616887447 46.5203460492294),Exact,services pas quotidiens
+214,191,Chavan,cabaretier,Grand St Jean,23,POINT (6.632140770910995 46.5212960211754),neighbour,alimentation pas quotidienne
+215,192,Chevalley (Emanuel),jardinier et pépiniériste,la Barre,15,POINT (6.63589066485176 46.5258569033511),Exact,services pas quotidiens
+216,193,Chevalley (Louis),fabricant de colle forte et de salpêtre au chemin des Eaux,la Barre,,POINT (6.63537784156262 46.5252391544126),smaller,services pas quotidiens
+217,194,Chevalley,charpentier,la Barre,44,POINT (6.63603804167853 46.525317695715),neighbour,services pas quotidiens
+218,195,Cherbuin,charpentier,Martheray,6,POINT (6.63924323779761 46.5211953756583),Exact,services pas quotidiens
+219,196,Cheseaux,cabaretier,Montée de St Laurent,16,POINT (6.63113843988485 46.5223846636638),Exact,alimentation pas quotidienne
+220,197,Cheseaux (François),propriétaire d'une mine houille,Cité-derrière,30,POINT (6.63565922937497 46.5230083893523),Exact,artisanat
+221,198,Chollet,cabaretier,Halle de St Laurent,56,POINT (6.62879663769884 46.5234251178521),Exact,alimentation pas quotidienne
+222,199,Chollet,ferblantier,rue de Bourg,26,POINT (6.63615107207762 46.520084147495),Exact,services pas quotidiens
+223,2,Agassis,notaire,montée de la Palud,19,POINT (6.63344204101613 46.5212755117514),Exact,services pas quotidiens
+224,20,Assinare (Mme.),épiceries,rue de Martheray,49,POINT (6.63809820213588 46.5200978826275),Exact,alimentation quotidienne
+225,200,Christin,tailleur,Escaliers du marché,13,POINT (6.63397350339903 46.5223628346688),Exact,textile
+226,201,Christin,traiteur,place St François,11,POINT (6.63276609951937 46.519923744802),Exact,alimentation quotidienne
+227,202,Chuard,charcutier,rue du Grand St Jean,13,POINT (6.63162580648235 46.5214298211786),Exact,alimentation quotidienne
+228,203,Chuard,voiturier,rue du Grand St Jean,13,POINT (6.63162580648235 46.5214298211786),Exact,services pas quotidiens
+229,204,Clavel,menuisier,Halle de St Laurent,4 l,POINT (6.62920999027171 46.5231260652846),smaller,services pas quotidiens
+230,205,Clerc,menuisier,Cheneau de Bourg,27,POINT (6.636238926791935 46.52065777025345),neighbour,services pas quotidiens
+231,206,Clerc,voiturier,Cheneau de Bourg,1,POINT (6.63620712607931 46.5201787336442),Exact,services pas quotidiens
+232,207,Cloux,menuisier,Cité-devant,4,POINT (6.63479873664368 46.5229997216287),Exact,services pas quotidiens
+233,208,Cloux,fabricant de toile cirée,montée de St François,22,POINT (6.63357960184327 46.5206817188869),Exact,textile
+234,209,Cœytaux (Ch.),cabaretier,rue de Bourg,22,POINT (6.6358900140198 46.5200875582694),Exact,alimentation pas quotidienne
+235,21,Aubert,cabaretier,Halle de St Laurent,65,POINT (6.62879663769884 46.5234251178521),bigger,alimentation pas quotidienne
+236,210,Cœytaux,cabaretier,Cheneau de Bourg,9,POINT (6.63632401683869 46.5205574955041),Exact,alimentation pas quotidienne
+237,211,Cœytaux,traiteur et billard au Coq,place la Palud,8,POINT (6.63238817188972 46.5221197791278),Exact,alimentation pas quotidienne
+238,212,Cœytaux,charpentier,Cheneau de Bourg,46,POINT (6.63646341106878 46.5204347494581),Exact,services pas quotidiens
+239,213,Collomb,couvreur,rue Chaucrau,28,POINT (6.6310994776788 46.5228981937158),Exact,services pas quotidiens
+240,214,Comte (Mmes.),blanchisseuses,St Pierre,9,POINT (6.636880051086525 46.51965438353555),neighbour,textile
+241,215,Comte,tailleur,montée de St François,8,POINT (6.63391575480106 46.5203492967993),Exact,textile
+242,216,Conod,docteur en droit,Escaliers du marché,l4,POINT (6.63362754598805 46.5220580859422),Exact,services pas quotidiens
+243,217,Conod (Dlles.),modistes,rue de Bourg,21,POINT (6.63584870736508 46.52008585288225),neighbour,textile
+244,218,Conod,horlogers,rue de Bourg,29,POINT (6.63595610466738 46.5199181562205),Exact,services pas quotidiens
+245,219,Conod,horloger,rue Mercerie,23,POINT (6.63349331483441 46.5218071671047),Exact,services pas quotidiens
+246,22,Aubert,voiturier,Cheneau de Bourg,1,POINT (6.63620712607931 46.5201787336442),Exact,services pas quotidiens
+247,220,Constenza,gypsier,rue St Etienne,2,POINT (6.63490466213158 46.5216004999656),Exact,services pas quotidiens
+248,221,* Corbaz (Benjamin),libraire et relieur et tient les articles en papeterie et fournitures de fait la commission pour la France et l'Allemagne,Cité-devant,30,POINT (6.63523527245223 46.5230210864481),Exact,services pas quotidiens
+249,222,* Corbaz (Benjamin),libraire et co-propriétaire du Bazar Vaudois,Cité-devant,30,POINT (6.63523527245223 46.5230210864481),Exact,éducation
+250,223,Corbaz,horloger,Rue du Pré,17,POINT (6.63519547707409 46.5209656626634),Exact,services pas quotidiens
+251,224,Corbaz,tailleur,place de St Laurent,8,POINT (6.63056624220695 46.5223747951496),only,textile
+252,225,Corbaz,couvreur,Cité-dessous,19,POINT (6.6360813172981 46.5215594303941),smaller,services pas quotidiens
+253,226,Corbaz (Marc),cordonnier,montée St Laurent,15,POINT (6.62970430826059 46.5230195898747),Exact,textile
+254,227,Corbaz,ferblantier,rue de la Mercerie,7,POINT (6.63449039173051 46.5216378647684),Exact,services pas quotidiens
+255,228,Corbaz,maître ramoneur,Cité-dessous,22,POINT (6.6360813172981 46.5215594303941),smaller,services pas quotidiens
+256,229,Cordey,cordonnier,rue de la Mercerie,3,POINT (6.63409842749875 46.5217618886245),Exact,textile
+257,23,Aubouin,négociant et commandant d'arrondissement militaire,montée de la Palud,22,POINT (6.63354469823077 46.5210549863239),Exact,services pas quotidiens
+258,230,Corsat (J.-D.),cordonnier,la Barre,11,POINT (6.63563343400071 46.5253361008785),Exact,textile
+259,231,Corsât (Abram.),cordonnier,la Barre,12,POINT (6.63570716258861 46.5253682284388),neighbour,textile
+260,232,Corsât (Rod.),cordonnier,la Barre,52,POINT (6.63606157009873 46.5251304735849),Exact,textile
+261,233,Corsât,épicier et laitier,rue du Pré,34,POINT (6.63524679233108 46.5208451755862),Exact,alimentation quotidienne
+262,234,Cottier (Mmes),institutrices,St Pierre,17,POINT (6.63683386217668 46.5195557987627),Exact,éducation
+263,235,Cottier,cabaretier,Place St Laurent,2,POINT (6.63056624220695 46.5223747951496),only,alimentation pas quotidienne
+264,236,Couilloud,maréchal,Martheray,1,POINT (6.63762451676704 46.5198245226053),Exact,services pas quotidiens
+265,237,Couilloud,serrurier,Cheneau de Bourg,16,POINT (6.636238926791935 46.52065777025345),neighbour,services pas quotidiens
+266,238,Court,tonnelier,rue de la Madeleine,10,POINT (6.63309749304038 46.5226440740895),Exact,alimentation pas quotidienne
+267,239,Cramer (Ernest),tapissier et fabrique de crin,de Bourg,9,POINT (6.63463212675129 46.5201512685168),Exact,textile
+268,24,Augsbourger,charcutier,montée de la Palud,4,POINT (6.63324674192495 46.521211766212),Exact,alimentation quotidienne
+269,240,Cruchy (Mme.),blanchisseuse,Petit St Jean,5,POINT (6.632983213343605 46.52098348764365),neighbour,textile
+270,241,Cretenoud,cordonnier,Halle de St Laurent,28,POINT (6.62766577197077 46.5235526374978),Exact,textile
+271,242,Creux,fabricant d'huile,la Barre,44,POINT (6.63603804167853 46.525317695715),neighbour,alimentation pas quotidienne
+272,243,Crespin,tailleur,montée de la Palud,11,POINT (6.633178512434705 46.521449950170606),neighbour,textile
+273,244,Crétin (Dlles.),blanchisseuses,Cheneau de Bourg,35,POINT (6.636238926791935 46.52065777025345),neighbour,textile
+274,245,Croisât (Antoine),commerce d'épicerie de toutes qualités et huiles et spiritueux,place du Pont,1,POINT (6.63370223635168 46.521022974076),Exact,alimentation pas quotidienne
+275,246,Cruchy (Mme.),blanchisseuse,Petit St Jean,5,POINT (6.632983213343605 46.52098348764365),neighbour,textile
+276,247,Cuenoud,mathématicien,Grand-Chêne,27,POINT (6.63156270920303 46.5198404431308),bigger,éducation
+277,248,Cuénoud,potier de terre,Halle de St Laurent,77,POINT (6.62879663769884 46.5234251178521),bigger,artisanat
+278,249,Curchod (Henri),distillateur-liquoriste,rue la Barre,15,POINT (6.63589066485176 46.5258569033511),Exact,alimentation pas quotidienne
+279,25,Baatard (père),serrurier,Cité-devant,18,POINT (6.6356937263765 46.5240088859871),Exact,services pas quotidiens
+280,250,Curchod-Grossinann,cotonnes,place de Laurent,28,POINT (6.63056624220695 46.5223747951496),only,textile
+281,251,Curchod,cordonnier,rue d' Etraz,4,POINT (6.6379072342863 46.51946530783),Exact,textile
+282,252,Cugny,jardinier,Grand St Jean,37,POINT (6.63144066125148 46.5213547763105),Exact,services pas quotidiens
+283,253,Curtet,jardinier,rue Chaucreau,16,POINT (6.631200790552895 46.52314453234785),neighbour,services pas quotidiens
+284,254,Dalgas,tapissier,moulée de St Laurent,10,POINT (6.62995358409201 46.522800497738),Exact,textile
+285,255,Daloz et Huit,négociants,Place de la Palud,2,POINT (6.63303550209915 46.5217138486624),Exact,services pas quotidiens
+286,256,Damas,tanneur,Cheneau de Bourg,28,POINT (6.636238926791935 46.52065777025345),neighbour,textile
+287,257,Denian (Mme.),épicerie,rue St Pierre,26,POINT (6.63626776418737 46.5198566396352),Exact,alimentation quotidienne
+288,258,* Dentan,menuisier,Chemin-Neuf,3,POINT (6.63328546336381 46.5239705183814),Exact,services pas quotidiens
+289,259,Dantzeisen (Dlle.),tailleuse en dames,rue Bourg,21,POINT (6.63584870736508 46.52008585288225),neighbour,textile
+290,26,* Baatard (fils),serrurier,Cité-devant,17,POINT (6.63572843006002 46.5240491013639),Exact,services pas quotidiens
+291,260,Dapaz,tailleur,montée de St François,18,POINT (6.63372471705457 46.5204592617454),Exact,textile
+292,261,Dapas,médecin-chirurgien,Grand-Chêne,28,POINT (6.63156270920303 46.5198404431308),bigger,services pas quotidiens
+293,262,Dapples-Gaulis,docteur en médecine,Cité-devant,7,POINT (6.63517591088822 46.523463459788246),neighbour,services pas quotidiens
+294,263,David (Ch.),négociant,place St François,8,POINT (6.632479015252255 46.51961881989695),neighbour,services pas quotidiens
+295,264,David (J. et H.),négociant en toileries,montée de la Palud,11,POINT (6.633178512434705 46.521449950170606),neighbour,textile
+296,265,Daxelhoffer,confiseur,rue St Pierre,2,POINT (6.63639682281969 46.5199952153093),Exact,alimentation pas quotidienne
+297,266,Debarbiéry (Mme.),tailleuse en corsets,rue St Pierre,7,POINT (6.6367074144734 46.5198341942462),Exact,textile
+298,267,Décombaz,cabaretier,rue St Pierre,19,POINT (6.63677101599357 46.5195955823457),Exact,alimentation pas quotidienne
+299,268,Décombaz,aubergiste au Bras de Fer,Petit Jean,1,POINT (6.6327271962657 46.5211316534687),Exact,alimentation quotidienne
+300,27,Baatard (Mme),faiseuse de corsets,Cité-devant,18,POINT (6.6356937263765 46.5240088859871),Exact,artisanat
+301,270,Defélice,docteur en droit,place St Laurent,1,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+302,271,Dégalier (Dlle.),institutrice,Martheray,41,POINT (6.63835075198037 46.5203912040412),Exact,éducation
+303,272,Dégalier (Dlle. Anne),épicerie,montée de St Laurent,5,POINT (6.63160523399194 46.5222606850561),Exact,alimentation quotidienne
+304,273,Déget,cordonnier,rue du Pré,16,POINT (6.6351052364956 46.5209813010389),Exact,textile
+305,274,Déglon,relieur,Cité-dessous,37,POINT (6.636156588140855 46.5223755824291),neighbour,services pas quotidiens
+306,275,Degrandi (Jaq.),gypsier,Grand-Chêne,2,POINT (6.63188472842355 46.5196237176248),Exact,services pas quotidiens
+307,276,Delà Flarpe,Président du Conseil d 'Etat,rue St Etienne,12,POINT (6.63520611905617 46.5216574853204),bigger,services pas quotidiens
+308,277,De la Harpe,intendant des péages,Grand St Jean,17,POINT (6.63195634580935 46.5213763061957),Exact,services pas quotidiens
+309,278,De la Harpe,docteur-médecin,montée de Pépinet,29,POINT (6.63200359669325 46.520274658643),Exact,services pas quotidiens
+310,279,Delapery (Dlles.),tailleuses en dames,rue Bourg,8,POINT (6.6344788359848 46.5201577264319),Exact,textile
+311,28,Baatard,épicier,Grand St Jean,49,POINT (6.63054038982289 46.5219990704276),Exact,alimentation quotidienne
+312,280,Delapraz,instituteur,rue St Pierre,23,POINT (6.6365116991848 46.5197268466058),Exact,éducation
+313,281,Delaraye,voiturier,rue de Martheray,59,POINT (6.63762964990529 46.5195843371918),Exact,services pas quotidiens
+314,282,Delaraye (Dlle.),blanchisseuse,Etraz,14,POINT (6.63851139887292 46.519374549677),Exact,textile
+315,283,Delavaux,voiturier,Etraz,35,POINT (6.63842933410886 46.5192571818696),Exact,services pas quotidiens
+316,284,Delavaux,cabaretier,Etraz,42,POINT (6.6378145904206 46.5193451835222),Exact,alimentation pas quotidienne
+317,285,Delavigne (Mme),sage-femme,rue du Pré,11,POINT (6.63472198153278 46.5210363602079),Exact,services pas quotidiens
+318,286,Delavigne (Félix),marchand tailleur,rue du St Jean,17,POINT (6.63289870892911 46.5211859234045),bigger,artisanat
+319,287,Delavigne,cordonnier,rue du Pré,11,POINT (6.63472198153278 46.5210363602079),Exact,textile
+320,288,Delédevant,marchand frippier,rue du Petit Jean,13,POINT (6.63304393133027 46.5210670463315),Exact,services pas quotidiens
+321,289,Delessert-Will et Ce,Banquiers et commissionnaires,place St François,17,POINT (6.63336954261608 46.5200647876148),Exact,services pas quotidiens
+322,29,Bachman,potier de terre,Halle de St Laurent,20,POINT (6.62823391789598 46.5232780360168),Exact,artisanat
+323,290,Delessert (Dlle.),marchande en épicerie et soie à coudre,place de la Palud,13,POINT (6.6322016834083 46.5224060261431),Exact,textile
+324,291,Delisle,professeur d'équitation,Martheray,5,POINT (6.63907799456323 46.5212189479336),Exact,éducation
+325,292,Delisle (Samuel),imprimeur,montée de St François,24,POINT (6.63345101874466 46.5208043227176),Exact,services pas quotidiens
+326,293,Delisle (Emilie),magasin d'objets de goût pour dames,rue de Bourg,3,POINT (6.63411907194097 46.5201458869203),Exact,artisanat
+327,294,Delisle (Abram),épicerie,rue du Grand Jean,28,POINT (6.632140770910995 46.5212960211754),neighbour,alimentation quotidienne
+328,295,Delisle,aubergiste au Raisin,Place de la Palud,19,POINT (6.63307853790249 46.5219569137734),Exact,alimentation pas quotidienne
+329,296,Delpéche,boulanger,Montée de St Laurent,6,POINT (6.63152888723068 46.5222646497444),Exact,alimentation quotidienne
+330,297,DeMartines,docteur en droit,rue de Bourg,19,POINT (6.63573470099807 46.5200818736455),Exact,services pas quotidiens
+331,298,DeMartines,procureur-juré,Etraz,35,POINT (6.63842933410886 46.5192571818696),Exact,services pas quotidiens
+332,299,DeMartines,serrurier,Cheneau de Bourg,39,POINT (6.63659087184752 46.5206855694424),Exact,services pas quotidiens
+333,3,Agassis (Mme.),marchande,Montée de la Palud,22,POINT (6.63354469823077 46.5210549863239),Exact,services pas quotidiens
+334,30,Badan,menuisier,Cité-dessous,28,POINT (6.6360399596921 46.5216448025478),Exact,services pas quotidiens
+335,300,DeMolin et Cie,banquiers,à la Grotte,2,POINT (6.63351804950803 46.5192170210639),only,services quotidiens
+336,301,Dénéréaz,coiffeur,rue St Pierre,13,POINT (6.636880051086525 46.51965438353555),neighbour,services pas quotidiens
+337,302,Deprez,traiteur,rue de la Mercerie,13,POINT (6.63439597698857 46.5215758527343),Exact,alimentation quotidienne
+338,303,Descombes,docteur en médecine,place de Palud,12,POINT (6.63209768021679 46.5222678381171),Exact,services pas quotidiens
+339,304,Desmailles (Fr.),mercerie et cotons et galettes et fils,Rue de Bourg,14,POINT (6.6350258788031 46.5201125706079),Exact,textile
+340,305,Despierre (frères),négocians,montée de François,2,POINT (6.6338092145193 46.520732277201),Exact,services pas quotidiens
+341,306,Despierre (Dlle. Hte),courtepointière,Escalier du marché,11,POINT (6.63388986534363 46.5223170570722),Exact,services pas quotidiens
+342,307,Despland,laitier,Cité-dessous,24,POINT (6.6360813172981 46.5215594303941),smaller,alimentation quotidienne
+343,308,Desponds,pépiniériste et marchand grainier,Monborget,,POINT (6.62942410039178 46.52286685145),only,artisanat
+344,309,Despond - Dubois (Mme.),toileries et indien,rue du Grand St Jean,25,POINT (6.632140770910995 46.5212960211754),neighbour,textile
+345,31,Baill,dégraisseur,Escaliers du marché,13,POINT (6.63397350339903 46.5223628346688),Exact,services pas quotidiens
+346,310,Desponds (Dlle),marchande,Petit St Jean,10,POINT (6.63328304752529 46.5208990674152),Exact,services pas quotidiens
+347,311,Dessauges (Fr.),épicerie,rue de la Halle,49,POINT (6.63354469823077 46.5210549863239),bigger,alimentation quotidienne
+348,312,Desvignes,aubergiste aux Trois-Pigeons,rue Martheray,12,POINT (6.63964828523792 46.521314623534),Exact,alimentation pas quotidienne
+349,313,Détard (veuve),tient une école pour les enfants,montée de St François,22,POINT (6.63357960184327 46.5206817188869),Exact,éducation
+350,314,Détraz,cordonnier,rue de Bourg,38,POINT (6.63417172842844 46.5200104974744),Exact,textile
+351,315,Dévaud (Mme.),marchande,rue d'Etraz,4,POINT (6.6379072342863 46.51946530783),Exact,services pas quotidiens
+352,316,Dévaud,charron,Halle de St Laurent,11,POINT (6.62882373237226 46.5232418820502),Exact,services pas quotidiens
+353,317,Devalonné,charpentier,au Maupas,,POINT (6.626252 46.524499),Exact,services pas quotidiens
+354,318,Develey,professeur,rue Madelaine,1,POINT (6.63292791259058 46.5221308835658),Exact,éducation
+355,319,Develey (Ferdinand),fondeur,rue du Grand Jean,7,POINT (6.63107706799172 46.5216765840288),Exact,services pas quotidiens
+356,32,Bailly-Devenoge (Mme. Jenny),fabrique de chandelles,au Maupas,,POINT (6.626252 46.524499),Exact,artisanat
+357,320,Devernois,peintre,rue d'Etraz,7,POINT (6.63809444021454 46.5194448140668),Exact,artisanat
+358,321,Diemer (Bénedict),cordonnier,Cité-devant,19,POINT (6.63564989014468 46.5239774677033),Exact,textile
+359,322,Diemer (George),cordonnier,Cité-devant,16,POINT (6.63577409280149 46.5240855465234),Exact,textile
+360,323,Dilly (Mme.),blanchisseuse,Grand St Jean,19,POINT (6.632140770910995 46.5212960211754),neighbour,textile
+361,324,Dienner,boulanger,rue St Pierre,3,POINT (6.63647198883634 46.5199591075973),Exact,alimentation quotidienne
+362,325,Dizerens,tapissier,montée de St François,16,POINT (6.63372288015318 46.5204162869654),Exact,textile
+363,326,Dizerens (Mme.),courtepointière,rue du Pré,34,POINT (6.63524679233108 46.5208451755862),Exact,services pas quotidiens
+364,327,Dizerens (Ja.),confiseur,Place St François,16,POINT (6.63323835933418 46.520056889227),Exact,alimentation pas quotidienne
+365,328,Dormont,tailleur,rue delà Mercerie,21,POINT (6.63369788010864 46.521792402387),Exact,textile
+366,329,Doy,libraire,Grand-Chêne,26,POINT (6.63156270920303 46.5198404431308),bigger,éducation
+367,33,Baldy,épicier,Grand-Chêne,28,POINT (6.63156270920303 46.5198404431308),bigger,alimentation quotidienne
+368,330,Dubois,instituteur et teneur de livres,rue Bourg,24,POINT (6.63603210891203 46.5200784628707),Exact,éducation
+369,331,* Dubois,ébéniste,Martheray,3,POINT (6.63790683936758 46.5202854636966),Exact,artisanat
+370,332,Dubrez,cabaretier,Etraz,5,POINT (6.63796679980892 46.5194555488961),Exact,alimentation pas quotidienne
+371,333,* Duc frères,ferblantiers,rue du Pré,5,POINT (6.63413371023171 46.5210599080163),Exact,artisanat
+372,334,Ducrot (veuve),épicerie,St Pierre,16,POINT (6.63691459392217 46.5195333830083),Exact,alimentation quotidienne
+373,335,Ducommun,traiteur,rue de la Mercerie,4,POINT (6.63422574434775 46.5217028296807),Exact,alimentation quotidienne
+374,336,Ducret,instituteur,rue de la Mercerie,16,POINT (6.63416709276564 46.521636880451),Exact,éducation
+375,337,Dufour,instituteur,rue de la Madelaine,7,POINT (6.63289959677666 46.5226638141335),Exact,éducation
+376,338,Dufour (Mme.),sage-femme,montée de St Laurent,2,POINT (6.63184406970923 46.5222698038387),Exact,services pas quotidiens
+377,339,Dumas,jardinier,Grand St Jean,48,POINT (6.63056649635149 46.5219592945875),Exact,services pas quotidiens
+378,34,Bally,cordonnier,rue de la Mercerie,14,POINT (6.6343473390912 46.5215916018291),Exact,textile
+379,340,Dumas (Mme.),sage-femme,Montée St Laurent,4,POINT (6.63035680336778 46.52237752077125),neighbour,services pas quotidiens
+380,341,Dunand,maître couvreur,au Chemin-Neuf,5,POINT (6.63380314657309 46.5243308038257),Exact,services pas quotidiens
+381,342,Dunki fils,charron,Etraz,10,POINT (6.63822775352709 46.5194272479779),Exact,services pas quotidiens
+382,343,Duperron (veuve),modiste,rue Mercerie,23,POINT (6.63349331483441 46.5218071671047),Exact,textile
+383,344,Duplan,tailleur,Escaliers du marché,9,POINT (6.63380242555843 46.5222621239053),Exact,textile
+384,345,Duperrut (Mme),marchande,place St Laurent,13,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+385,346,Duperrut,cordonnier,Grand St Jean,48,POINT (6.63056649635149 46.5219592945875),Exact,textile
+386,347,Dupraz,luthier,au Chemin-Neuf,3,POINT (6.63328546336381 46.5239705183814),Exact,artisanat
+387,348,Dupraz,maréchal,Martheray,20,POINT (6.640203507964445 46.52133557180665),neighbour,services pas quotidiens
+388,349,Dupuis,libraire et relieur,rue du Grand St Jean,35,POINT (6.63158781966429 46.52129885803),Exact,éducation
+389,35,Bally,tourneur,Grand St Jean,9,POINT (6.63120669125722 46.5215963118993),Exact,artisanat
+390,350,Dupuis,cordonnier,Halle de St Laurent,74,POINT (6.62879663769884 46.5234251178521),bigger,textile
+391,351,* Dupuis (Simon),vanier,Montée de St Laurent,7,POINT (6.63143957592506 46.5222636585724),Exact,artisanat
+392,352,Dupuis,agent-d'affaires,Cheneau de Bourg,46,POINT (6.63646341106878 46.5204347494581),Exact,services pas quotidiens
+393,353,* Duret (Louis),chaudronnier et fabrique des portatives et machines à vapeur et pour et bains,montée du Pont,9,POINT (6.6337144308089 46.5209186202746),neighbour,artisanat
+394,354,Duret-Corbaz (Mme.),tailleuse pour manteaux de dames,montée du Pont,9,POINT (6.6337144308089 46.5209186202746),neighbour,textile
+395,355,Duret-Muller (Mme.),tailleuse en dames,place de la Palud,2,POINT (6.63303550209915 46.5217138486624),Exact,textile
+396,356,Dusserre (L.),commissaire-arpenteur,rue du Pré,32,POINT (6.63546855989616 46.5208375750095),Exact,services pas quotidiens
+397,357,Duvoisin,maître carrier,Etraz,9,POINT (6.63818378849848 46.5194331033414),Exact,artisanat
+398,358,Eberlé père,boulanger,Montée de la Palud,20,POINT (6.63347208703017 46.5212221033315),Exact,alimentation quotidienne
+399,359,Eberlé,épicerie et bureau de papier timbré,rue Bourg,34,POINT (6.63509558378297 46.5199559334918),Exact,services pas quotidiens
+400,36,Bally,voiturier,Petit-Chêne,1,POINT (6.63194297366533 46.51944671375),Exact,services pas quotidiens
+401,360,Eberlé,boulanger,rue de Martheray,40,POINT (6.63840222710792 46.5204310513564),Exact,alimentation quotidienne
+402,361,Eichenberg,tisserand,Martheray,39,POINT (6.63844405064904 46.520472005511),Exact,textile
+403,362,Emery,cordonnier,Cité-dessous,32,POINT (6.63608958881922 46.5219680772204),Exact,textile
+404,363,Emery,menuisier,rue de la Mercerie,6,POINT (6.6344074211997 46.5216526295281),Exact,services pas quotidiens
+405,364,Emery,fabricant de couvertures,Escaliers marché,10,POINT (6.63384994718082 46.5222882825631),Exact,textile
+406,365,Emery,boulanger,rue de Bourg,23,POINT (6.635961061465915 46.52008301057005),neighbour,alimentation quotidienne
+407,366,Eppelin,maître de langue allemande,rue du St Jean,42,POINT (6.63289870892911 46.5211859234045),bigger,éducation
+408,367,Ernst,traiteur,Grand-Chêne,24,POINT (6.631488920086 46.5198534994392),Exact,alimentation quotidienne
+409,368,Escher,maître de langue allemande,rue du Pré,47,POINT (6.63425536901887 46.520958428194),Exact,éducation
+410,369,Esslinger,maître de guitare,Cité-derrière,27,POINT (6.63596890973263 46.5231322727384),Exact,éducation
+411,37,Ballenegger,serrurier,Grand St Jean,37,POINT (6.63144066125148 46.5213547763105),Exact,services pas quotidiens
+412,370,Estoppey,voiturier,place St François,12,POINT (6.63283661053339 46.5199338998967),Exact,services pas quotidiens
+413,371,Estrambin,bijoutier,rue de Bourg,36,POINT (6.63469520250944 46.5200190442999),Exact,artisanat
+414,372,Fabre (Jean),draperie,montée de St François,3,POINT (6.63385513705453 46.520657703671),Exact,textile
+415,373,* Faillettaz,coutelier,Grand St Jean,38,POINT (6.63136818024219 46.5213834910808),Exact,artisanat
+416,374,Faillettaz (Elie,fils) fabricant de chandelles,Place de Pépinet,25,POINT (6.63234497021753 46.521126210083),only,artisanat
+417,375,Faillettaz (L.),épicerie,Montée de St François,6,POINT (6.63393963451935 46.5204567338181),Exact,alimentation quotidienne
+418,376,Falconnier cadet,chapelier,montée de St François,3,POINT (6.63385513705453 46.520657703671),Exact,services pas quotidiens
+419,377,Falconnier-Moser (Mme),institutrice,Etraz,39,POINT (6.63808925590561 46.5193124719802),Exact,éducation
+420,378,Falconnier,doreur,montée de St Laurent,11,POINT (6.63101219230631 46.5224715309083),Exact,artisanat
+421,379,Faraudo,marchand tailleur,rue de Bourg,9,POINT (6.63463212675129 46.5201512685168),Exact,artisanat
+422,38,Ballenegger,cabaretier et menuisier,montée de François,23,POINT (6.6335226578996 46.5207461807292),Exact,artisanat
+423,380,Fatio (Mme.),blanchisseuse,rue du Grand Jean,11,POINT (6.63144217352288 46.5214952283083),Exact,textile
+424,381,Faure Lagier,laines et cotons et tricots,montée de la Palud,2,POINT (6.63328304752525 46.5211239006162),Exact,textile
+425,382,Favez,marchand et fabricant de tabac,Grand Chêne,5,POINT (6.63155849268208 46.5196953728268),Exact,services quotidiens
+426,383,Favrat-Pamblanc (Mme.),indiennes et modes,place de St Laurent,2,POINT (6.63056624220695 46.5223747951496),only,textile
+427,384,Favre,aubergiste aux Trois-Suisses,Halle de St Laurent,4,POINT (6.62920999027171 46.5231260652846),smaller,alimentation pas quotidienne
+428,385,Favre,maréchal,Grand-Chêne,2,POINT (6.63188472842355 46.5196237176248),Exact,services pas quotidiens
+429,386,Ferber (Simon),sellier-carossier,place de St Fancois,12,POINT (6.63283661053339 46.5199338998967),Exact,services pas quotidiens
+430,387,Feuille d'avis (bureau de la),Feuille d'avis (bureau de la),montée de la Palud,11,POINT (6.633178512434705 46.521449950170606),neighbour,tailleuse pour manteaux de dames
+431,388,Fiaux (veuve),marchande,place de la Palud,14,POINT (6.63236844714646 46.5223171910238),Exact,services pas quotidiens
+432,389,Fidelle,menuisier,place de St Laurent,9,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+433,39,Barbaz,couvreur,montée de St Laurent,20,POINT (6.63170741869767 46.5223727640303),Exact,services pas quotidiens
+434,390,Fievet,aubergiste à la Couronne,Rue de Bourg,10,POINT (6.63474499355102 46.5201500890938),Exact,alimentation pas quotidienne
+435,391,Fillon,perruquier,Halle de St Laurent,60,POINT (6.62879663769884 46.5234251178521),bigger,artisanat
+436,392,Fischer (Henri),libraire,montée de la Palud,3,POINT (6.63326426876647 46.5211807548415),Exact,éducation
+437,393,Folker,tailleur,rue du Pré,5,POINT (6.63413371023171 46.5210599080163),Exact,textile
+438,394,Fontaine,marchand tailleur,rue St Pierre,1,POINT (6.63630889276248 46.5200176606318),Exact,artisanat
+439,395,Fontannes cadet,commerce de pelleteries,rue de Bourg,15,POINT (6.63510849211255 46.5200989275156),Exact,artisanat
+440,396,Fontaine,peintre,rue de Bourg,5,POINT (6.63425828498402 46.5201555737937),Exact,artisanat
+441,397,Fontanges,fabricant de parapluies,montée de François,1,POINT (6.63375778127985 46.5208131704059),Exact,artisanat
+442,398,* Foras (Paul),jardinier et marchand de graines,chemin des moulins de Pépinet,11,POINT (6.630663 46.520388),Exact,services pas quotidiens
+443,399,Forckart,passementier,montée de la Palud,13,POINT (6.63315034429654 46.5215477215915),Exact,textile
+444,4,Agassis (Mme.),blanchisseuse,Place de la Palud,21,POINT (6.63326782667545 46.5219078280913),Exact,textile
+445,40,Barbey,carrier,rue du Pré,41,POINT (6.63478541383359 46.5209410596931),Exact,artisanat
+446,400,Forestier,maître de la poste aux chevaux,rue de Martheray,57,POINT (6.6377477120837 46.5197114943077),Exact,services pas quotidiens
+447,401,* Forneret,ébéniste,Cité-derrière,14,POINT (6.63630366377355 46.5241607142876),Exact,artisanat
+448,402,Fornerod,cordonnier,place de la Palud,14,POINT (6.63236844714646 46.5223171910238),Exact,textile
+449,403,Fraisse,ingénieur et conservateur des antiquités,Cité-derrière,2,POINT (6.63602176259828 46.5235367779022),smaller,services pas quotidiens
+450,404,Francillon (veuve et fils),fers et quincaillerie,montée de St François,5,POINT (6.63392677620948 46.5205275157379),Exact,artisanat
+451,405,Fréderich,tourneur,rue de Bourg,37,POINT (6.63445885409248 46.5200226853058),Exact,artisanat
+452,406,Fritzsché,bijoutier,place de la Palud,,POINT (6.63285041824104 46.5219863716031),Exact,artisanat
+453,407,Fritzsché,cordonnier,montée de St Laurent,16,POINT (6.63113843988485 46.5223846636638),Exact,textile
+454,408,Garagnon (veuve née Mouton),empailleuse de chaises,rue de Chaucrau,14,POINT (6.631200790552895 46.52314453234785),neighbour,artisanat
+455,409,Gardel,instituteur,Cité-dessous,28,POINT (6.6360399596921 46.5216448025478),Exact,éducation
+456,41,Barbey (veuve du coiffeur),,Place St Laurent,21,POINT (6.63056624220695 46.5223747951496),only,
+457,410,Gaudard,commissaire-arpenteur,montée de Laurent,9,POINT (6.63114062185493 46.5222698079963),Exact,services pas quotidiens
+458,411,Gaudin-Grussel (Louis),sellier,place de St Laurent,13,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+459,412,Gaudin (Fr.),sellier,Halle de St Laurent,12,POINT (6.62875108753796 46.5232735792272),Exact,services pas quotidiens
+460,413,Gaudin (Mme.),modiste,Cité-dessous,31,POINT (6.63605815703868 46.5219009182037),Exact,textile
+461,414,Gaudin,tailleur,montée de St Laurent,17,POINT (6.63126987572004 46.5223799038107),Exact,textile
+462,415,Gauthier,draperie,rue de Bourg,32,POINT (6.63526314422784 46.5199377284374),Exact,textile
+463,416,Gaux,marchand de bois,Montée de St Laurent,7,POINT (6.63143957592506 46.5222636585724),Exact,services pas quotidiens
+464,417,Gay,maçon,Chemin-Neuf,6,POINT (6.63380314657309 46.5243308038257),bigger,services pas quotidiens
+465,418 :,Gazette de Lausanne,Bureau de la Gazette de Lausanne,rue du Pré,32,POINT (6.63546855989616 46.5208375750095),Exact,
+466,419 :,Gazette Vaudoise,Bureau de la Gazette Vaudoise,rue de Bourg,12,POINT (6.63488708844325 46.5201353090873),Exact,
+467,42,Bardet (Madeleine),sage-femme,Martheray,39,POINT (6.63844405064904 46.520472005511),Exact,services pas quotidiens
+468,420,Gély (frères),orfèvres,place de la Palud,23,POINT (6.63345421933128 46.5217209455107),Exact,artisanat
+469,421,Genillard,artificier,place de la Palud,5,POINT (6.63254776299398 46.5220272420545),Exact,services pas quotidiens
+470,422,Genoud,jardinier,aux Toises,,POINT (6.64075323086366 46.5187550346158),Exact,services pas quotidiens
+471,423,Gentil (Mme.),sage-femme,Grand St Jean,13,POINT (6.63162580648235 46.5214298211786),Exact,services pas quotidiens
+472,424,Georgettaz,confiseur et pâtissier,place de la Palud,1,POINT (6.63311654253073 46.5216373093418),Exact,alimentation pas quotidienne
+473,425,Gétaz (Dlle. Fréderique),soieries et nouveautés,place St François,14,POINT (6.63296287444221 46.5199711352279),Exact,textile
+474,426,Gex,libraire et relieur et régleur de papier,montée de la Palud,16,POINT (6.63340197966406 46.5214185082298),Exact,services pas quotidiens
+475,427,Gex (Mraes.),tailleuses en dam es,rue St Pierre,19,POINT (6.63677101599357 46.5195955823457),Exact,textile
+476,428,Gignoux (Mme .),modes et soieries,rue du petit chène,3,POINT (6.63185826604219 46.5193171846585),Exact,textile
+477,429,Gilliéron (successeur de R. Mellet),épicerie et tabac,rue de Bourg,19,POINT (6.63573470099807 46.5200818736455),Exact,services quotidiens
+478,43,* Barraud (père et fils),commerce de graines et pépinières et végétaux de toutes espèces,Halle St Laurent,,POINT (6.63042490255722 46.5222179793013),smaller,services pas quotidiens
+479,430,Gilliéron,fabricant de moulins à vanner,Halle St Laurent,61,POINT (6.63052309748781 46.5225438458256),bigger,services pas quotidiens
+480,431,Gindroz,Professeur et Président du Grand Conseil,Cité-devant,10,POINT (6.63547271870771 46.5241320454847),Exact,services pas quotidiens
+481,432,Gindroz (Ab.),menuisier,Cité-derrière,15,POINT (6.63632140580557 46.524111884742),Exact,services pas quotidiens
+482,433,Giroud,voiturier,rue St Pierre,5,POINT (6.63660246569543 46.5198888438727),Exact,services pas quotidiens
+483,434,Giroud (Dlles.),modistes,rue St Pierre,19,POINT (6.63677101599357 46.5195955823457),Exact,textile
+484,435,Giron (père),jardinier,au Maupas,,POINT (6.626252 46.524499),Exact,services pas quotidiens
+485,436,Gonvers (Philippe),Hôtel du Lion-d'Or (Il y a des bains dans l'hôtel),rue de Bourg,16,POINT (6.63539929096176 46.5200818736455),Exact,services pas quotidiens
+486,437,Gonvers (Jaq. père),confiseur et épicerie et fabrique de chocolat,montée de St François,21,POINT (6.63364756719539 46.5206324244852),Exact,alimentation pas quotidienne
+487,438,Gonvers (L.),confiseur et épicerie,montée­ de St Laurent,4,POINT (6.63167437822856 46.5222636585723),Exact,alimentation pas quotidienne
+488,439,Gonvers (Georges),confiseur et épicerie,au coin de la Madelaine,18,POINT (6.63308261611873 46.5220380798859),Exact,alimentation pas quotidienne
+489,44,Barraud,marchand,Cité-derrière,17,POINT (6.636301692436724 46.52379991715905),neighbour,services pas quotidiens
+490,440,* Goldner (Mme. veuve),potier d 'étain,Petit St Jean,9,POINT (6.63318164222794 46.5209162960459),Exact,artisanat
+491,441,Golliez (Mmes.),institutrices,Martheray,34,POINT (6.63934802619018 46.5209735184487),Exact,éducation
+492,442,Gonthier (M m e.),institutrice,Martheray,54,POINT (6.63787782424609 46.519858796832),Exact,éducation
+493,443,Gonthier (J.-M.),cordonnier,montée de St Francois,18,POINT (6.63372471705457 46.5204592617454),Exact,textile
+494,444,Gonthier (L.),cordonnier,Montée de la Palud,22,POINT (6.63354469823077 46.5210549863239),Exact,textile
+495,445,Gonthier (veuve),tailleuse,Cité-devant,15,POINT (6.63582158205262 46.5241257618435),Exact,textile
+496,446,Gorgerat,café et billard,place St François,17,POINT (6.63336954261608 46.5200647876148),Exact,services pas quotidiens
+497,447,Gougoltz (fils ainé),agent d'affaires,rue St Pierre,21,POINT (6.63665328020109 46.519646857485),Exact,services pas quotidiens
+498,448,Gougoltz,tailleur,rue de Bourg,36,POINT (6.63469520250944 46.5200190442999),Exact,textile
+499,449,Grand,cabaretier,rue de St Etienne,3,POINT (6.63490300577479 46.5218842864403),Exact,alimentation pas quotidienne
+500,45,Barraud,traiteur,montée de St Laurent,14,POINT (6.63139093504182 46.5228285181258),Exact,alimentation quotidienne
+501,450,Grandchamp,traiteur,rue de Bourg,3,POINT (6.63411907194097 46.5201458869203),Exact,alimentation quotidienne
+502,451,Grandchamp,cordonnier,montée de la Palud,17,POINT (6.63341700267108 46.5213728527685),Exact,textile
+503,452,Granger-Gluc,boulanger et denrées coloniales,Petit St Jean,10,POINT (6.63328304752529 46.5208990674152),Exact,alimentation quotidienne
+504,453,Grassmeyer,gantier,Grand St Jean,42,POINT (6.63075758264875 46.5216842396054),Exact,artisanat
+505,454,Greiloz (Dlles.),tailleuses en dames,rue du Grand St Jean,13,POINT (6.63162580648235 46.5214298211786),Exact,textile
+506,455,Greiner,sabotier,montée de St François,8,POINT (6.63391575480106 46.5203492967993),Exact,artisanat
+507,456,Greiner,maréchal,Cheneau de Bourg,11,POINT (6.63610224478318 46.5206003830916),Exact,services pas quotidiens
+508,457,Gremay(L),jardinier et fleuriste et pépiniériste (tient aussi le poids public qui est sur la place Chaudron),Halle St Laurent,40,POINT (6.63052309748781 46.5225438458256),bigger,services pas quotidiens
+509,458,Grillet,fontenier,la Barre,44,POINT (6.63603804167853 46.525317695715),neighbour,
+510,459,Grivel,coiffeur,rue de Bourg,29,POINT (6.63595610466738 46.5199181562205),Exact,services pas quotidiens
+511,46,Barrelet,Perruquier et coiffeur,Cité-devant,22,POINT (6.63549281031405 46.523690932116),Exact,services pas quotidiens
+512,460,Grivel (Mme.),marchande,rue St Pierre,26,POINT (6.63626776418737 46.5198566396352),Exact,services pas quotidiens
+513,461,Grobety (D.-B.),traiteur,Halle St Laurent,40,POINT (6.63052309748781 46.5225438458256),bigger,alimentation quotidienne
+514,462,Grobety,tourneur,Halle de St Laurent,50,POINT (6.62828760156159 46.5235990246216),Exact,artisanat
+515,463,Grobety,charpentier,Halle de St Laurent,64,POINT (6.62879663769884 46.5234251178521),bigger,services pas quotidiens
+516,464,Grosjean (Henri),perruquier,montée de St François,9,POINT (6.63391942860389 46.5202949462265),Exact,artisanat
+517,465,Groux.,cordonnier,rue du Grand St Jean,42,POINT (6.63075758264875 46.5216842396054),Exact,textile
+518,466,Gruffel,maître ramoneur,St Etienne,9,POINT (6.63522765169362 46.5217703161465),Exact,services pas quotidiens
+519,467,Gscheidel,tailleur et concierge de la loge maconnique au Pas des Anes,sous Pépinet,3,POINT (6.631656 46.520485),only,services pas quotidiens
+520,468,Guédon,maçon,rue du Grand St Jean,2,POINT (6.63077407269106 46.5219329775347),Exact,services pas quotidiens
+521,469,Guerber,maître de danse,Mercerie,5,POINT (6.63431872856332 46.5216801904019),Exact,éducation
+522,47,Barrelet (Jentiy),marchande,Martheray,41,POINT (6.63835075198037 46.5203912040412),Exact,services pas quotidiens
+523,470,Guerber,fabricant de formes de souliers,rue Grand St Jean,15,POINT (6.63170142005388 46.5214060367483),Exact,artisanat
+524,471,Guex et Badan (Mmes.),marchandes,rue de Madelaine,15,POINT (6.63310195611699 46.5222653285043),Exact,services pas quotidiens
+525,472,Guex (Mme. née Gaudard),toilerie,rue de Bourg,18,POINT (6.6356273036958 46.5200841474951),Exact,textile
+526,473,Guex (Mme.),tailleuse,Halle de St Laurent,25,POINT (6.62790801823947 46.5235298540216),Exact,textile
+527,474,Guichard (Mme.),tient des pensionnaires,rue du Petit St Jean,15,POINT (6.63289870892911 46.5211859234045),Exact,services quotidiens
+528,475,Guignard,cabaretier,Cité-devant,14,POINT (6.63591838706456 46.5241622069516),Exact,alimentation pas quotidienne
+529,476,Guignard,voiturier,rue de Bourg,11,POINT (6.63482925912665 46.5201387198584),Exact,services pas quotidiens
+530,477,Guignard,épicerie,Grand St Jean,24,POINT (6.632140770910995 46.5212960211754),neighbour,alimentation quotidienne
+531,478,Guillaume,ferblantier,Cheneau de Bourg,45,POINT (6.63647532329108 46.5204839299384),Exact,services pas quotidiens
+532,479,Guisan (hoirs),banquiers,Cité-derrière,2,POINT (6.63602176259828 46.5235367779022),smaller,services quotidiens
+533,48,Barrelet,voiturier et loue des ânesses,rue Martheray,41,POINT (6.63835075198037 46.5203912040412),Exact,services pas quotidiens
+534,480,Guyaz (Dites.),tailleuses en dames,rue de Bourg,11,POINT (6.63482925912665 46.5201387198584),Exact,textile
+535,481,Habegger,fondeur,rue du Pré,11,POINT (6.63472198153278 46.5210363602079),Exact,services pas quotidiens
+536,482,Haldy (J.-P.),courtier,montée de la Palud,1,POINT (6.63334439147058 46.5210067462674),Exact,services pas quotidiens
+537,483,Hansjacob,aubergiste au Mouton,derrière les boucheries,,POINT (6.63565291811142 46.5211680658664),smaller,alimentation pas quotidienne
+538,484,Hansjacob,maréchal,rue de Martheray,51,POINT (6.63800972926041 46.5200071186994),Exact,services pas quotidiens
+539,485,Hasler,marchand en toilerie et bandagiste,de la Mercerie,17,POINT (6.63399542959844 46.5217215316866),Exact,services pas quotidiens
+540,486,Haury,maçon,rue Chaucrau,16,POINT (6.631200790552895 46.52314453234785),neighbour,services pas quotidiens
+541,487,Hauser (Mine.),tailleuse,rue St Pierre,21,POINT (6.63665328020109 46.519646857485),Exact,textile
+542,488,Hauser (Dlle.),tailleuse en dames,rue du Pré,6,POINT (6.63425448162876 46.5210762441743),Exact,textile
+543,489,Héberlé (Christ),serrurier et établit cheminées portatives et montures de lanternes pour escaliers et serres,Petit St Jean,15,POINT (6.63289870892911 46.5211859234045),Exact,services pas quotidiens
+544,49,Baud (Dlle.),institutrice,Place de St Laurent,8,POINT (6.63056624220695 46.5223747951496),only,éducation
+545,490,Héberlé,fabricant de couvertures et de vernis,place de St Laurent,9,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+546,491,Heer,cordonnier,rue du Pré,43,POINT (6.63467240584064 46.5209527528653),Exact,textile
+547,492,Heffly (Abram),toilerie,place de la Palud,7,POINT (6.63243658716854 46.5220852319722),Exact,textile
+548,493,Helfrich,menuisier,rue Chaucrau,16,POINT (6.631200790552895 46.52314453234785),neighbour,services pas quotidiens
+549,494,Heller,charpentier,Cheneau de Bourg,8,POINT (6.63631531989535 46.5204926653658),Exact,services pas quotidiens
+550,495,Hemmeling,jardinier,Martheray,,POINT (6.63762451676704 46.5198245226053),smaller,services pas quotidiens
+551,496,Henchoz,cordonnier,Escaliers du marché,14,POINT (6.63403243021079 46.5223994567183),Exact,textile
+552,497,Hennin,boulanger,rue St Pierre,22,POINT (6.63659515746808 46.5196806990505),Exact,alimentation quotidienne
+553,498,Henny,cabaretier,Grand-Chêne,26,POINT (6.63156270920303 46.5198404431308),bigger,alimentation pas quotidienne
+554,499,Herter,cordonnier,rue de Martheray,39,POINT (6.63844405064904 46.520472005511),Exact,textile
+555,5,Aguet,menuisier,Cité-dessous,27,POINT (6.6360482312133 46.5215947175672),Exact,services pas quotidiens
+556,50,Baud,armurier,place de St Laurent,14,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+557,500,Herzog,boulanger,Petit St Jean,5,POINT (6.632983213343605 46.52098348764365),neighbour,alimentation quotidienne
+558,501,Heurter (André),gypsier,rue d' Etraz,3,POINT (6.63785192344386 46.5194711631895),Exact,services pas quotidiens
+559,502,Heyvang père,tonnelier,rue du Grand St Jean,5,POINT (6.630953628572881 46.5217708018141),neighbour,alimentation pas quotidienne
+560,503,Heyvang (Ch. fils),tonnelier,Martheray,3,POINT (6.63790683936758 46.5202854636966),Exact,alimentation pas quotidienne
+561,504,Heysé (Mme),sage- femme,rue du Grand St Jean,50,POINT (6.63050682428613 46.5220478278694),Exact,services pas quotidiens
+562,505,Heysé,fourbisseur et doreur,place de St Laurent,24,POINT (6.63056624220695 46.5223747951496),only,textile
+563,506,Hignou,imprimeur-libraire,Cité-dessous,30,POINT (6.6360167994327 46.5218064401245),Exact,services pas quotidiens
+564,507,Hignou et Ce,libraires,rue de Bourg,7,POINT (6.63439749802706 46.5201555737937),Exact,éducation
+565,508,Hirtzel,coutelier,rue St Pierre,5,POINT (6.63660246569543 46.5198888438727),Exact,artisanat
+566,509,* Hochreutiner,négociant en verrerie et tole et terrerie et fayence,rue de Bourg,40,POINT (6.63402311858069 46.5199950037428),Exact,textile
+567,51,Baud (F .),cordonnier,Grand St Jean,11,POINT (6.63144217352288 46.5214952283083),Exact,textile
+568,510,* Hoffer-Chapuis,fabricant de Vinaigre de vin et magasin d'épicerie et liquides,place de la Palud,,POINT (6.63285041824104 46.5219863716031),Exact,alimentation pas quotidienne
+569,511,Hoffer,fabricant de casquettes,rue de la Madeleine,15,POINT (6.63310195611699 46.5222653285043),Exact,artisanat
+570,512,Hoffer (Bénédict et fils),horloger,place de St Laurent,5,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+571,513,Hoffer (Christ),horloger,rue de Chaucrau,36,POINT (6.63086688516377 46.5225998425213),Exact,services pas quotidiens
+572,514,* Hoffmann (Fr.),maître et marchand de musique / tient un bureau d'abonnemens / loue Pianos et harpes et guitares / vis-à-vis de la Poste,Place St François,6,POINT (6.63270488146017 46.5194548674434),Exact,
+573,515,Hoffmann (L.),maître de musique,montée de Laurent,5,POINT (6.63160523399194 46.5222606850561),Exact,éducation
+574,516,Hoffmann (Isaac),maître de musique,place la Palud,15,POINT (6.63247782981342 46.5222604351771),Exact,éducation
+575,517,Hoffmann (Dlle.),toilerie indienne et coteline,place de la Palud,12,POINT (6.63209768021679 46.5222678381171),Exact,textile
+576,518,* Hoffmann (Louis),courtepointier,place de Palud,15,POINT (6.63247782981342 46.5222604351771),Exact,textile
+577,519,Hoffmann,cordonnier,rue du Pré,17,POINT (6.63519547707409 46.5209656626634),Exact,textile
+578,52,Baud,potier de terre,rue St Pierre,10,POINT (6.636880051086525 46.51965438353555),neighbour,artisanat
+579,520,Holzer,vernisseur,rue de Martheray,44,POINT (6.6382526275185 46.5202771962836),Exact,artisanat
+580,521,Holzer,voiturier,place St François,1,POINT (6.6338149555526 46.5199488527503),Exact,services pas quotidiens
+581,522,Horn (Martin),tailleur,Cité-dessous,25,POINT (6.6360813172981 46.5215594303941),smaller,textile
+582,523,Hornung,cordonnier,rue la Mercerie,4,POINT (6.63422574434775 46.5217028296807),Exact,textile
+583,524,Horrisperguer,aubergiste à la Cicogne,montée St Laurent,20,POINT (6.6299463059655 46.5230308574464),Exact,alimentation pas quotidienne
+584,525,Houldy (père et fils),négociants,rue de Bourg,40,POINT (6.63402311858069 46.5199950037428),Exact,services pas quotidiens
+585,526,Huber (J.),toilerie et cotonnerie,place de la Palud,2,POINT (6.63303550209915 46.5217138486624),Exact,textile
+586,527,Hubert,menuisier,rue de Chaucrau,13,POINT (6.63110618321181 46.5231977045194),Exact,services pas quotidiens
+587,528,Hubmann,tailleur,Cité-derrière,23,POINT (6.63612735084581 46.5233436997316),Exact,textile
+588,529,Hugoni,quincaillerie,rue du Grand St Jean,14,POINT (6.631663613268115 46.52141792896345),neighbour,services pas quotidiens
+589,53,Baud (Mme.),blanchisseuse,Rue de la Madeleine,14,POINT (6.63309600534827 46.522329817804),Exact,textile
+590,530,Hugonnet (Ant.),charpentier,derrière Halle St Laurent,,POINT (6.62920999027171 46.5231260652846),smaller,services pas quotidiens
+591,531,Huguenin-Panchaud,artiste-peintre,Escaliers du marché,2,POINT (6.63355531312203 46.521942987266),Exact,éducation
+592,532,Huit (Xavier),marchand de soieries,montée­ de la Palud,1,POINT (6.63334439147058 46.5210067462674),Exact,textile
+593,533,Humberset (Dlle.),marchande,rue de la Madeleine,1,POINT (6.63292791259058 46.5221308835658),Exact,services pas quotidiens
+594,534,Hunkel (Mlle.),institutrice,Place de la Palud,2,POINT (6.63303550209915 46.5217138486624),Exact,éducation
+595,535,Jaccard (S.),flanelle et bonnneterie et mercerie et tricots de laine et de coton,rue de bourg,1,POINT (6.63393839628907 46.5201327390099),Exact,services pas quotidiens
+596,536,Jaccard (Mmes. sœurs),lainerie et cotonne et mercerie,Montée de St François,4,POINT (6.63390289649116 46.520589449842),Exact,textile
+597,537,Jaccard,marchand de lunettes et quincaillerie,place de la Palud,24,POINT (6.633409461425 46.5216458777729),Exact,services pas quotidiens
+598,538,Jacob (Auguste),cordonnier,montée de St François,9,POINT (6.63391942860389 46.5202949462265),Exact,textile
+599,539,Jacquet,fabricant de peignes,Grand-Chêne,26,POINT (6.63156270920303 46.5198404431308),bigger,artisanat
+600,54,Baudet,instituteur,rue de Chaucrau,9,POINT (6.630909328526215 46.5230930606175),neighbour,éducation
+601,540,Jaggi-Schmidt,toileries,rue Mercerie,18,POINT (6.63393534748993 46.5217353121078),Exact,textile
+602,541,Jan (père),serrurier,Place de St Laurent,19,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+603,542,Jan (fils),serrurier,rue du Grand St Jean,4,POINT (6.630953628572881 46.5217708018141),neighbour,services pas quotidiens
+604,543,Jan (fils),coutelier,place de St Laurent,18,POINT (6.63056624220695 46.5223747951496),only,artisanat
+605,544,Jaquerod,menuisier,rue du Grand St Jean,46,POINT (6.63064776293767 46.5218565269549),Exact,services pas quotidiens
+606,545,Jaquerod (Dlle.),modiste,Montée de Pépinet,7,POINT (6.63240698528515 46.5200027288224),Exact,textile
+607,546,* Jaques (Fréd.),bijoutier,Montée du Pont,17,POINT (6.6337144308089 46.5209186202746),neighbour,artisanat
+608,547,Jaques,bandagiste,Cité-derrière,11,POINT (6.6361144154321 46.5238284012351),Exact,services pas quotidiens
+609,548,Jaquet,passementier,rue de la Mercerie,21,POINT (6.63369788010864 46.521792402387),Exact,textile
+610,549,Jaquillard,ferblantier,Montée de St Laurent,17,POINT (6.63126987572004 46.5223799038107),Exact,services pas quotidiens
+611,55,Baudet (Mines),blanchisseuses,Cheneau de Bourg,10,POINT (6.63619066370727 46.5206043726329),Exact,textile
+612,550,Jaquin,tailleur,rue du Grand St Jean,15,POINT (6.63170142005388 46.5214060367483),Exact,textile
+613,551,Jaunin,boulanger,rue de la Mercerie,22,POINT (6.63360775694586 46.5218002769036),Exact,alimentation quotidienne
+614,552,Jaunin,boulanger,place St Laurent,38,POINT (6.63056624220695 46.5223747951496),only,alimentation quotidienne
+615,553,Jeanmonod,tailleur,rue du Pré,14,POINT (6.63498224192934 46.5209978593139),Exact,textile
+616,554,Jlg,cordonnier,place de St Laurent,10,POINT (6.63056624220695 46.5223747951496),only,textile
+617,555,Jordanis (père),dentiste,rue de Bourg,38,POINT (6.63417172842844 46.5200104974744),Exact,services pas quotidiens
+618,556,Jordanis (fils),dentiste,Grand St Jean,35,POINT (6.63158781966429 46.52129885803),Exact,services pas quotidiens
+619,557,Joly (Mme.),blanchisseuse,Mercerie,2,POINT (6.63399829065121 46.521799292589),Exact,textile
+620,558,Joseph,fondeur,rue du Petit St Jean,15,POINT (6.63289870892911 46.5211859234045),Exact,services pas quotidiens
+621,559,Jouvet,fabrique d'eaux minérales et limonades gazeuses ; il se charge d'exécuter avec toutes les eaux médicinales qu' on peut lui demander,rue du Pré,20,POINT (6.63539668014171 46.5209357657566),Exact,alimentation pas quotidienne
+622,56,Baudet (Simon),cordonnier,Cité-dessous,18,POINT (6.6360813172981 46.5215594303941),smaller,textile
+623,560,Juat-Duvoisin,teinturier et fabricant de cotonnes ; propriétaire d'une grande filature à mécanique,place de la Palud,21,POINT (6.63326782667545 46.5219078280913),Exact,textile
+624,561,Juge de paix (bureau du),pour le visa des passeports ; est ouvert de 9 à midi et de 3 à 6,St Laurent,,POINT (6.63042490255722 46.5222179793013),smaller,services pas quotidiens
+625,562,Jung,tonnelier,rue de la Mercerie,17,POINT (6.63399542959844 46.5217215316866),Exact,alimentation pas quotidienne
+626,563,Isly,marchand frippier,Martheray,47,POINT (6.63816093744757 46.5201753639095),Exact,services pas quotidiens
+627,564,Isot (Mme.),sage-femme,m de la Palud,9,POINT (6.63320417673837 46.5213849127055),Exact,services pas quotidiens
+628,565,Izena (Dlle.),tailleuse,Place de St Laurent,26,POINT (6.63056624220695 46.5223747951496),only,textile
+629,566,Kam,aubergiste à l'Etoile d 'Or,rue Grand Chène,26,POINT (6.63156270920303 46.5198404431308),bigger,alimentation quotidienne
+630,567,Keunel,maréchal au Pas des Anes,sous Pépinet,1,POINT (6.631656 46.520485),Exact,services pas quotidiens
+631,568,Kenn (J.),cartonnier,rue de St Etienne,1,POINT (6.63490466213158 46.5216004999656),smaller,artisanat
+632,569,Kern (Mme. veuve),marchande de joujoux enfans,montée de St François,18,POINT (6.63372471705457 46.5204592617454),Exact,services pas quotidiens
+633,57,Baup (Jean),cordonnier,Grand St Jean,3,POINT (6.63083018915404 46.5218650195994),Exact,textile
+634,570,Kesler (Mme.),blanchisseuse,rue du Grand St Jean,31,POINT (6.63188652927834 46.5212036456902),Exact,textile
+635,571,Kesler (fils),sellier,rue St Pierre,2,POINT (6.63639682281969 46.5199952153093),Exact,services pas quotidiens
+636,572,Kees (veuve),caurtepointiere,rue du Grand St Jean,13,POINT (6.63162580648235 46.5214298211786),Exact,textile
+637,573,Kienner,relieur,rue du Petit St Jean,15,POINT (6.63289870892911 46.5211859234045),Exact,services pas quotidiens
+638,574,Kinkelin et Hochreutiner,marchands de porcelaine et terre de pipes et verrerie et objets en tole,rue de Bourg,40,POINT (6.63402311858069 46.5199950037428),Exact,artisanat
+639,575,Kinkelin (Ch.),architecte,rue St Laurent,8,POINT (6.63006093645735 46.5227116086764),Exact,services pas quotidiens
+640,576,Kirschmann,tisserand,Cheneau de Bourg,40,POINT (6.6366575802925 46.5206593399557),Exact,textile
+641,577,Knauss,tailleur,Escaliers du marché,2,POINT (6.63355531312203 46.521942987266),Exact,textile
+642,578,Knobel,tonnelier,Cité-dessous,35,POINT (6.63614418085911 46.5220944270098),Exact,alimentation pas quotidienne
+643,579,Kock,charron,Grand-Chêne,24,POINT (6.631488920086 46.5198534994392),Exact,services pas quotidiens
+644,58,Bavaud,serrurier,rue du Pré,22,POINT (6.63561161106817 46.5209330775712),Exact,services pas quotidiens
+645,580,Kohler (A. et fils),négocians en vins et épice,rue du Grand St Jean,30,POINT (6.63202050932581 46.5212096909231),Exact,alimentation pas quotidienne
+646,581,Kraer,tailleur,rue du Pré,2,POINT (6.63386842605189 46.5210229740759),Exact,textile
+647,582,Krâer,relieur,montée de St François,12,POINT (6.63372288015321 46.5202254279728),Exact,services pas quotidiens
+648,583,Krâuttler,agent d 'affaires,montée de St François,4,POINT (6.63390289649116 46.520589449842),Exact,services pas quotidiens
+649,584,Krebs,cordonnier,rue de Bourg,29,POINT (6.63595610466738 46.5199181562205),Exact,textile
+650,585,Krebs (Albert),cordonnier,Mercerie,9,POINT (6.63460626436837 46.5216162097804),Exact,textile
+651,586,Krauss,tailleur,place de la Palud,7,POINT (6.63243658716854 46.5220852319722),Exact,textile
+652,587,Krieg,maçon,au Chemin-Neuf,3,POINT (6.63328546336381 46.5239705183814),Exact,services pas quotidiens
+653,588,Krieg (Mme.),blanchisseuse,rue de Bourg,30,POINT (6.63567191488292 46.5199261147179),Exact,textile
+654,589,Kubly,teinturier,rue Chaucrau,16,POINT (6.631200790552895 46.52314453234785),neighbour,textile
+655,59,Bazar Vaudois,exposition permanente et vente prix fixe et pour comptant et de tonte espèce produits de l'industrie et des sciences,Chemin Neuf,4,POINT (6.63354430496845 46.52415066110355),neighbour,services pas quotidiens
+656,590,Kung-Reymond,marchand parfumeur et courtier,rue de Bourg,35,POINT (6.63493331472058 46.5199692838612),Exact,services pas quotidiens
+657,591,Kung,musicien,rue de Bourg,27,POINT (6.6362122059266 46.520084147495),Exact,éducation
+658,592,Ladermann,confiseur,rue St Pierre,23,POINT (6.6365116991848 46.5197268466058),Exact,alimentation pas quotidienne
+659,593,* Lacombe (frères),potiers d'étain,rue du Grand St Jean,39,POINT (6.6312956992329 46.5214197623479),Exact,artisanat
+660,594,Lacombe (F),chapelier,montée de la Palud,1,POINT (6.63334439147058 46.5210067462674),Exact,services pas quotidiens
+661,595,Lacombe (Samuel),fabricant de fournitures militaires,rue de la Madelaine,13,POINT (6.63309600534825 46.522403519767),Exact,artisanat
+662,596,Lacombe,instituteur,Cité-dessous,26,POINT (6.6360813172981 46.5215594303941),Exact,éducation
+663,597,Lacombe,libraire,montée de la Palud,11,POINT (6.633178512434705 46.521449950170606),neighbour,éducation
+664,599,Lagiez,chapelier,rue St Pierre,17,POINT (6.63683386217668 46.5195557987627),Exact,services pas quotidiens
+665,6,Allamand,pharmacien,Montée de St François,22,POINT (6.63357960184327 46.5206817188869),Exact,services pas quotidiens
+666,60,Beaubertier,remouleur,place de la Palud,1,POINT (6.63311654253073 46.5216373093418),Exact,services pas quotidiens
+667,600,Lagoanère,maître de musique,Rue de Bourg,35,POINT (6.63493331472058 46.5199692838612),Exact,éducation
+668,601,Larguier,agent d'affaires et inspecteur du magasin des poudres,Martheray,3,POINT (6.63790683936758 46.5202854636966),Exact,services pas quotidiens
+669,602,Larpin,ferblantier,rue St Pierre,11,POINT (6.636880051086525 46.51965438353555),neighbour,services pas quotidiens
+670,603,Larpin (H.),ferblantier,Mercerie,4,POINT (6.63422574434775 46.5217028296807),Exact,services pas quotidiens
+671,604,Larpin,bottier,place du Pont,2,POINT (6.63386842605189 46.5210229740759),Exact,artisanat
+672,605,Larpin,tonnelier,Cité-derrière,19,POINT (6.63627803639405 46.5237293851161),Exact,alimentation pas quotidienne
+673,606,Lassieur,horloger,place de St Laurent,26,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+674,607,Lassieur,voiturier,Halle de St Laurent,64,POINT (6.62879663769884 46.5234251178521),bigger,services pas quotidiens
+675,608,Lassieur,marchand frippier,montée de St Laurent,1,POINT (6.63194975475422 46.5222810701586),Exact,services pas quotidiens
+676,609,Laub,marchand frippier,Etraz,8,POINT (6.63813840524315 46.5194340792353),Exact,services pas quotidiens
+677,61,Beaulieu (Mme. Veuve),marchande en soie,Grand-Chêne,2,POINT (6.63188472842355 46.5196237176248),Exact,textile
+678,610,Lavanchy,cabaretier,Place de St Laurent,26,POINT (6.63056624220695 46.5223747951496),only,alimentation pas quotidienne
+679,611,Leber,fabricant de cartonnages,Mercerie,17,POINT (6.63399542959844 46.5217215316866),Exact,artisanat
+680,612,Leblanc,agent d'affaires,place de la Palud,17,POINT (6.63259438511429 46.5221987439722),Exact,services pas quotidiens
+681,613,Leblanc,boulanger,place de la Palud,13,POINT (6.6322016834083 46.5224060261431),Exact,alimentation quotidienne
+682,614,Lecoultre,voiturier et épicier,Martheray,51,POINT (6.63800972926041 46.5200071186994),Exact,services pas quotidiens
+683,615,Lecomte,orfèvre,place de la Palud,7,POINT (6.63243658716854 46.5220852319722),Exact,artisanat
+684,616,Lecoq,cordonnier,Cité-derrière,6,POINT (6.63602176259828 46.5235367779022),Exact,textile
+685,617,Lederrey,agent d'affaires,Mercerie,21,POINT (6.63369788010864 46.521792402387),Exact,services pas quotidiens
+686,618,Lederrey,boulanger,Grand St Jean,34,POINT (6.63166469346202 46.5212610753754),Exact,alimentation quotidienne
+687,619,Léger,cabaretier,rue de la Mercerie,8,POINT (6.63453902962788 46.5216260529578),Exact,alimentation pas quotidienne
+688,62,Beausire-Bujard (Mme.),magasin de toileries et de gants de percale et toile écrue et en quelconque,place de la Palud,2,POINT (6.63303550209915 46.5217138486624),Exact,textile
+689,620,Légeret,tailleur,rue St Pierre,15,POINT (6.63705268769965 46.5194745728249),Exact,textile
+690,621,Lenoir (veuve),blanchisseuse,Petit St Jean,4,POINT (6.632983213343605 46.52098348764365),neighbour,textile
+691,622,Lenoir,coiffeur,rue de Bourg,31,POINT (6.6354405976165 46.5199397578536),Exact,services pas quotidiens
+692,623,Leresche (Jules),épicerie et tabac,place de Palud,15,POINT (6.63247782981342 46.5222604351771),Exact,services quotidiens
+693,624,Leuthold,draperie,place de la Palud,1,POINT (6.63311654253073 46.5216373093418),Exact,textile
+694,625,Levrat,vétérinaire,Grand St Jean,23,POINT (6.632140770910995 46.5212960211754),neighbour,services pas quotidiens
+695,626,Leyvraz-Vasserot,mercerie,rue du Grand Jean,16,POINT (6.6318094394418 46.5213837388354),Exact,textile
+696,627,Liechty,meunier,Petit St Jean,7,POINT (6.633094633978975 46.520945584705345),neighbour,alimentation pas quotidienne
+697,628,Liegme,menuisier et ébéniste,Etraz,15,POINT (6.63859791070339 46.5193667425169),Exact,artisanat
+698,629,Lochmann,maître de langue allemande,Che­min Neuf,5,POINT (6.63380314657309 46.5243308038257),Exact,éducation
+699,63,Beboux,fabricant de peignes,Petit St Jean,5,POINT (6.632983213343605 46.52098348764365),neighbour,artisanat
+700,630,Lochmann,mathématicien,Montée de la Palud,11,POINT (6.633178512434705 46.521449950170606),neighbour,éducation
+701,631,Loëver père et fils,marchands tailleurs,rue Bourg,22,POINT (6.6358900140198 46.5200875582694),Exact,services pas quotidiens
+702,632,Loëver,ferblantier,rue de Bourg,15,POINT (6.63510849211255 46.5200989275156),Exact,services pas quotidiens
+703,633,Logoz,messager d'Yverdon,rue de la Madeleine,16,POINT (6.63309451765611 46.5221998154866),Exact,services pas quotidiens
+704,634,Loire,boulanger,Cheneau de Bourg,19,POINT (6.636238926791935 46.52065777025345),neighbour,alimentation quotidienne
+705,635,Loire (Mme.),courtepointière,Cheneau de 22,,POINT (6.63620712607931 46.5201787336442),smaller,services pas quotidiens
+706,636,Longchamp (Louis),commissionnaire,place de François,17,POINT (6.63336954261608 46.5200647876148),Exact,services pas quotidiens
+707,637,Longchamp,traiteur,rue de Bourg,15,POINT (6.63510849211255 46.5200989275156),Exact,alimentation quotidienne
+708,638,Loriol,agent d'affaires et faisant la procure,Montée de Pépinet,30,POINT (6.63200359669325 46.520274658643),bigger,services pas quotidiens
+709,639,Louder,voiturier,Martheray,33,POINT (6.63955558781382 46.5210511685751),Exact,services pas quotidiens
+710,64,Becker (Henri),fabricant de ouates,rue de Madeleine,4,POINT (6.63294376173799 46.5223778377204),Exact,artisanat
+711,640,Loup,charron,Halle de St Laurent,7,POINT (6.62911253988423 46.5231480095328),Exact,services pas quotidiens
+712,642,Luard (Dlle. Louise),épicerie,Grand-Chêne,28,POINT (6.63156270920303 46.5198404431308),bigger,alimentation quotidienne
+713,643,Lubac,gantier,rue du Pré,33,POINT (6.63533770853592 46.5208305590916),Exact,artisanat
+714,644,Ludin,voiturier,rue de Chaucrau,13,POINT (6.63110618321181 46.5231977045194),Exact,services pas quotidiens
+715,645,Lugeon,café et cabaret,place St François,18,POINT (6.6335433604646 46.5200704293196),Exact,alimentation pas quotidienne
+716,646,Lugenbuhl (Ab. fils),épicerie et tabac,montée de la Palud,1,POINT (6.63334439147058 46.5210067462674),Exact,services quotidiens
+717,647,Lugenbuhl (père et fils),épicerie et tabac,rue St Pierre,15,POINT (6.63705268769965 46.5194745728249),Exact,services quotidiens
+718,648,Lutziger,fabricant de ouates,montée de St Laurent,7,POINT (6.63143957592506 46.5222636585724),Exact,artisanat
+719,649,Maget,aubergiste à L'Ecusson Vaudois,place du Pont,3,POINT (6.63397784287314 46.5210329178316),Exact,alimentation pas quotidienne
+720,65,Beck (veuve),traiteur et billard à la brasserie de bière,rue de Chaucrau,16,POINT (6.631200790552895 46.52314453234785),neighbour,alimentation pas quotidienne
+721,650,Maget (L.),maçon,rue du Pré,3,POINT (6.63397784287314 46.5210329178316),Exact,services pas quotidiens
+722,651,Maget (G.),maçon,Cheneau de Bourg,20,POINT (6.636238926791935 46.52065777025345),neighbour,services pas quotidiens
+723,652,Maget (S.),gypsier,Halle de St Laurent,71,POINT (6.62879663769884 46.5234251178521),bigger,services pas quotidiens
+724,653,Maget (A.),maçon,Halle de St Laurent,74,POINT (6.62879663769884 46.5234251178521),bigger,services pas quotidiens
+725,654,Maillard,instituteur,Cheneau de Bourg,26,POINT (6.636238926791935 46.52065777025345),neighbour,éducation
+726,655,Mamin (Dlle.),marchande,Halle de St Laurent,64,POINT (6.62879663769884 46.5234251178521),bigger,services pas quotidiens
+727,656,Mandrot,docteur en droit,Chaucrau,23,POINT (6.631200790552895 46.52314453234785),neighbour,services pas quotidiens
+728,657,Manuel,confiseur,rue de Bourg,9-,POINT (6.63463212675129 46.5201512685168),Exact,alimentation pas quotidienne
+729,658,Marcel,instituteur,Escaliers du marché,14,POINT (6.63403243021079 46.5223994567183),Exact,éducation
+730,659,Margot,vernisseur,Petit St Jean,15,POINT (6.63289870892911 46.5211859234045),Exact,artisanat
+731,66,Bégos,commandant et instructeur en chef de l'école militaire,Cité-derrière,28,POINT (6.63610574523954 46.5229836126411),Exact,services pas quotidiens
+732,661,Marguerat,café et billard,montée de la Palud,21,POINT (6.6335021330442 46.5211652491495),Exact,services pas quotidiens
+733,662,Marguet,tapissier,Grand-Chêne,27,POINT (6.63156270920303 46.5198404431308),bigger,textile
+734,663,Markham,libraire,St Pierre,22,POINT (6.63659515746808 46.5196806990505),Exact,éducation
+735,664,Marquis,fondeur,Grand St Jean,2,POINT (6.63077407269106 46.5219329775347),Exact,services pas quotidiens
+736,665,Marthy,marchand de bois,Place St Laurent,8,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+737,666,Martin (L.),banquier et intendant des sels,montée de St Laurent,21,POINT (6.63189938419378 46.5223775238839),Exact,services pas quotidiens
+738,667,Martin,boulanger,Cité Devant,15,POINT (6.63582158205262 46.5241257618435),Exact,alimentation quotidienne
+739,668,Martin (Mme.),tailleuse,Martheray,20,POINT (6.640203507964445 46.52133557180665),neighbour,textile
+740,669,Martin (Mme.),blanchisseuse,rue du Grand Jean,12,POINT (6.63153074942098 46.5214640112789),Exact,textile
+741,67,Bégos (Marc),épicerie,place de la Palud,20,POINT (6.63317318228897 46.52193237093235),neighbour,alimentation quotidienne
+742,670,Martin,cordonnier,Petit St Jean,12,POINT (6.63309901568933 46.5210420648845),Exact,textile
+743,671,Martinet-Bristlen,marchand de papier,rue du Grand St Jean,41,POINT (6.63085422399447 46.5216237877744),Exact,services quotidiens
+744,672,Masmejan,quincaillerie,Montée St François,19,POINT (6.63373357622335 46.5200839694089),Exact,services pas quotidiens
+745,673,Masson-Ravizza (Mme.),magasin de soierie,St François,1,POINT (6.6338149555526 46.5199488527503),Exact,textile
+746,674,Mattenberger (le jeune),toilerie,rue du Pré,47,POINT (6.63425536901887 46.520958428194),Exact,textile
+747,675,Matthey,chirurgien,place St François,19,POINT (6.63373357622335 46.5200839694089),Exact,services pas quotidiens
+748,676,* Matthey,peintre,montée de St Laurent,13,POINT (6.63128889932772 46.5225798172787),Exact,artisanat
+749,677,Matthys,charetier,Cheneau de Bourg,17,POINT (6.636238926791935 46.52065777025345),neighbour,services pas quotidiens
+750,678,Matthey,confiseur,montée de St François,2,POINT (6.6338092145193 46.520732277201),Exact,alimentation pas quotidienne
+751,679,Matthey,boulanger,rue du Pré,38,POINT (6.63501142981946 46.5209036415252),Exact,alimentation quotidienne
+752,68,Bellet (Dlle. Lse),blanchisseuse,Cité-derrière,29,POINT (6.63578166114428 46.5229836126412),Exact,textile
+753,680,Matthey et Gatabin,marchands,rue de la Madeleine,7,POINT (6.63289959677666 46.5226638141335),Exact,services pas quotidiens
+754,681,Mathys,voiturier,Grand Chêne,23,POINT (6.63139615662459 46.5198520487385),Exact,services pas quotidiens
+755,682,Mauerhoffer,maçon,Cité-derrière,3,POINT (6.63602176259828 46.5235367779022),smaller,services pas quotidiens
+756,683,Manerhoffer (Mme.),tailleuse,Cité-derrière,3,POINT (6.63602176259828 46.5235367779022),smaller,textile
+757,684,Maurel,menuisier,Cité-derrière,32,POINT (6.63552959573687 46.523011692913),bigger,services pas quotidiens
+758,685,Maurer (Bernard),charcutier,montée de la Palud,8,POINT (6.63319791715212 46.5213470100376),Exact,alimentation quotidienne
+759,686,Maurer (Jos),sellier,rue St Pierre,12,POINT (6.636880051086525 46.51965438353555),neighbour,services pas quotidiens
+760,687,May,gypsier,rue St Pierre,14-,POINT (6.636880051086525 46.51965438353555),neighbour,services pas quotidiens
+761,688,Mayor,commissaire-arpenteur,Cité-dessous,34,POINT (6.63605153982168 46.522119469269754),neighbour,services pas quotidiens
+762,689,Mayor-Gloor,épicerie et tabac,place de St Laurent,32,POINT (6.63056624220695 46.5223747951496),only,services quotidiens
+763,69,Benoit,traiteur,montée de St François,1,POINT (6.63375778127985 46.5208131704059),Exact,alimentation quotidienne
+764,690,Mayor (père),médecin-chirurgien,derrière Bourg,,POINT (6.63393839628907 46.5201327390099),smaller,services pas quotidiens
+765,691,Mayor (fils),médecin-chirurgien,derrière Bourg,,POINT (6.63393839628907 46.5201327390099),smaller,services pas quotidiens
+766,693,Mayor (Albert),marchand de fer,montée de St Laurent,18,POINT (6.63142725283847 46.5223727640304),Exact,services pas quotidiens
+767,694,Mayor,serrurier,rue d'Etraz,2,POINT (6.63776824806684 46.5194945846212),Exact,services pas quotidiens
+768,695,Mayor (veuve),boulangerie,rue du Grand St Jean,47,POINT (6.63059724587058 46.5219063995067),Exact,alimentation quotidienne
+769,696,Mayor (Dlle.),modiste,rue du Grand St Jean,47,POINT (6.63059724587058 46.5219063995067),Exact,textile
+770,697,Mayor,menuisier,Grand St Jean,2,POINT (6.63077407269106 46.5219329775347),Exact,services pas quotidiens
+771,699,Meillard,relieur,rue de Bourg,25,POINT (6.63608993822863 46.520084147495),Exact,services pas quotidiens
+772,7,Albers,peintre,Martheray,34,POINT (6.63934802619018 46.5209735184487),Exact,artisanat
+773,70,Béranger,pharmacien,montée de la Palud,2,POINT (6.63328304752525 46.5211239006162),Exact,services pas quotidiens
+774,700,Mellet (frères),fabricants d'eau d'arquebusade de Fabre et Bouët,Petit-Chène,5,POINT (6.63172649862843 46.5191384340051),Exact,artisanat
+775,701,Mercier (J.J.),tanneur,rue du Pré,29,POINT (6.635734101720825 46.52091202638505),neighbour,textile
+776,702,Mercier (Bernard),tanneur,rue du Pré,8,POINT (6.63447612810712 46.5210503974164),Exact,textile
+777,703,Meyer,ferblantier,montée St François,16,POINT (6.63323835933418 46.520056889227),Exact,services pas quotidiens
+778,704,Meyer (S.),cordonnier,St Etienne,1,POINT (6.63490466213158 46.5216004999656),smaller,textile
+779,705,Meyer,cordonnier,rue St Pierre,21,POINT (6.63665328020109 46.519646857485),Exact,textile
+780,706,Meyer,teinturier,place de la Palud,7,POINT (6.63243658716854 46.5220852319722),Exact,textile
+781,707,Meylan,notaire,rue du Grand St Jean,43,POINT (6.63070486918744 46.5217326010218),Exact,services pas quotidiens
+782,708,Meylan,traiteur,rue Chaucrau,23,POINT (6.631200790552895 46.52314453234785),neighbour,alimentation quotidienne
+783,709,Meystre,charpentier,derrière la Halle de St Laurent,,POINT (6.62920999027171 46.5231260652846),smaller,services pas quotidiens
+784,71,Berger,jardinier,Petit-Chêne,4,POINT (6.6318356773427 46.5192576011726),Exact,services pas quotidiens
+785,710,Meystre (Mme.),courtepointière,rue du Grand St Jean,32,POINT (6.63179647711527 46.5212474736134),Exact,services pas quotidiens
+786,711,Meystre,menuisier,au Chemin Neuf,3b,POINT (6.63328546336381 46.5239705183814),Exact,services pas quotidiens
+787,712,Michaud,chapelier,montée de la Palud,4,POINT (6.63324674192495 46.521211766212),Exact,services pas quotidiens
+788,713,Michoud,libraire,place de St Laurent,7,POINT (6.63056624220695 46.5223747951496),only,éducation
+789,714,Michoud,boulanger,Halle de St Laurent,57,POINT (6.62879663769884 46.5234251178521),bigger,alimentation quotidienne
+790,715,Michoud,coiffeur,montée de St Laurent,15,POINT (6.63105369835954 46.5223882335534),Exact,services pas quotidiens
+791,716,Michoud,cordonnier,rue de St Etienne,8,POINT (6.63522765169361 46.5218204631052),Exact,textile
+792,718,Miéville (E.-D.),épicerie,place de la Palud,11,POINT (6.63220168340833 46.5222419278231),Exact,alimentation quotidienne
+793,719,Miéville (fils),chapelier,Montée de St François,1,POINT (6.63375778127985 46.5208131704059),Exact,services pas quotidiens
+794,72,Berger,laitier,Halle de St Laurent,53,POINT (6.62849263000576 46.5235442987751),Exact,alimentation quotidienne
+795,720,Miéville (Dlles.),modistes,Chemin de Bourg,24,POINT (6.636238926791935 46.52065777025345),neighbour,textile
+796,721,Milliquet,tapissier,Cheneau de Bourg,6,POINT (6.63628488059364 46.5203809578692),Exact,textile
+797,722,Mockly,cordonnier,Petit-Chêne,2,POINT (6.63190532583282 46.5193897209877),Exact,textile
+798,723,Moinnat,sellier,rue de la Madeleine,8,POINT (6.632998544908521 46.5226539441115),neighbour,services pas quotidiens
+799,724,Monnard,Professeur et Rédacteur du Nouvelliste audois,Martheray,10,POINT (6.63946087522821 46.5213173967373),Exact,
+800,725,Monnard,boulanger,Etraz,41,POINT (6.63786080817049 46.5193406402536),Exact,alimentation quotidienne
+801,726,Monnet,vitrier,rue du Grand St Jean,50,POINT (6.63050682428613 46.5220478278694),Exact,artisanat
+802,727,Morand,café et billard,rue de Bourg,6,POINT (6.6343239810268 46.5201566501129),Exact,services pas quotidiens
+803,728,Morin,tailleur,rue du Grand St Jean,4,POINT (6.630953628572881 46.5217708018141),neighbour,textile
+804,729,Morin,procureur-juré,montée de Pépinet,30,POINT (6.63200359669325 46.520274658643),bigger,services pas quotidiens
+805,73,Bernard,café et billard,Cité-devant,9,POINT (6.63539965832138 46.5239535897954),Exact,services pas quotidiens
+806,730,Morel (Mme.),maîtresse d'école,montée de Palud,17,POINT (6.63341700267108 46.5213728527685),Exact,éducation
+807,731,Moser (Mme.),blanchisseuse,Etraz,39,POINT (6.63808925590561 46.5193124719802),Exact,textile
+808,732,Moser,cordonnier,Escaliers du marché,7,POINT (6.633689324097145 46.522167298639346),neighbour,textile
+809,733,Molino,gypsier,rue de la Mercerie,9,POINT (6.63460626436837 46.5216162097804),Exact,services pas quotidiens
+810,734,Moulin (Fr.),boulanger,Petit-Chêne,3,POINT (6.63185826604219 46.5193171846585),Exact,alimentation quotidienne
+811,735,Mounoud,instituteur,rue de la Madeleine,8,POINT (6.632998544908521 46.5226539441115),neighbour,éducation
+812,736,Mouton,cordonnier,rue du Pré,9,POINT (6.63455521069253 46.5210517246306),Exact,textile
+813,737,Mouthy (Dlle.),modiste,Place de la Palud,21,POINT (6.63326782667545 46.5219078280913),Exact,textile
+814,738,Müller (oncle),coiffeur,Petit St Jean,10,POINT (6.63328304752529 46.5208990674152),Exact,services pas quotidiens
+815,739,Müller (neveu),coiffeur,rue St Pierre,4,POINT (6.63653580903916 46.5199073856977),Exact,services pas quotidiens
+816,74,Bernard (Fr.),magasin de soieries et fabrique de parapluies et ombrelles,rue de Bourg,5,POINT (6.63425828498402 46.5201555737937),Exact,textile
+817,740,Müller (L.),coiffeur,Escaliers du marché,2,POINT (6.63355531312203 46.521942987266),Exact,services pas quotidiens
+818,741,Muller,fabricant de bis cornes,place de St-Laurent,20,POINT (6.63056624220695 46.5223747951496),only,artisanat
+819,742,Muller (Dlle.),blanchisseuse,montée de St François,13,POINT (6.63372471705461 46.5202734587758),Exact,textile
+820,743,Muller,cordonnier,Cheneau de Bourg,38,POINT (6.63653131073593 46.5207019628651),Exact,textile
+821,744,Muller,cloutier,rue de Martheray,45,POINT (6.63822206416152 46.5202428832224),Exact,artisanat
+822,745,* Murait,fabricant et marchand de nouveau coquillages,rue de Bourg,11,POINT (6.63482925912665 46.5201387198584),Exact,artisanat
+823,746,Murisier-Renou,toilerie indiennes,de la Palud,14,POINT (6.63339572007778 46.5215408302199),Exact,textile
+824,747,* Mussard ('J.-P.),luthier et facteur de Pianos et facteur des harpes,Escalier du marché,4,POINT (6.63362754598805 46.5220580859422),Exact,artisanat
+825,748,Naëff-Develey,peintre,place de la Palud,2,POINT (6.63303550209915 46.5217138486624),Exact,artisanat
+826,749,Narbel,horloger,Escaliers du marché,9,POINT (6.63380242555843 46.5222621239053),Exact,services pas quotidiens
+827,75,Berney,armurier,Cité-devant,13,POINT (6.63597135584468 46.5240981138141),Exact,services pas quotidiens
+828,750,Nègre (J.),vins étrangers et du pays,montée St Laurent,5,POINT (6.63032840760494 46.5224374288235),Exact,alimentation pas quotidienne
+829,751,Ney,fondeur,rue du Grand St Jean,3,POINT (6.63083018915404 46.5218650195994),Exact,services pas quotidiens
+830,752,Neyret (Georges),négociant,Grand St Jean,10,POINT (6.631342795686 46.5215368509862),Exact,services pas quotidiens
+831,753,Neyroud,charron,Halle de St Laurent,42,POINT (6.62760534215764 46.5237964506387),Exact,services pas quotidiens
+832,754,Neyroud,tailleur,montée de la Palud,8,POINT (6.63319791715212 46.5213470100376),Exact,textile
+833,755,Neyroud (Mme.),blanchisseuse,Halle de St Laurent,42,POINT (6.62760534215764 46.5237964506387),Exact,textile
+834,756,Nicole (Ch.),notaire,place St François,13,POINT (6.63289564301024 46.519949696707),Exact,services pas quotidiens
+835,757,Nobs (André),marchand de fer,place de St Laurent,26,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+836,758,Noëller,pharmacien,Escaliers du marché,20,POINT (6.63382346456495 46.5219504405334),Exact,services pas quotidiens
+837,759,Noir(veuve et fils),toilerie,Rue du Pré,21,POINT (6.63553904395553 46.5209323840619),Exact,textile
+838,76,Bersot,horloger,place St François,19,POINT (6.63373357622335 46.5200839694089),Exact,services pas quotidiens
+839,760,Nouvelliste Vaudois (bureau du),journaliste,place du Pont,24,POINT (6.63345101874466 46.5208043227176),Exact,services quotidiens
+840,761,Odin (Mutes sœurs),modistes,rue de Bourg,40,POINT (6.63402311858069 46.5199950037428),Exact,textile
+841,762,Ogiez (Mme.),sage-femme,Cheneau de Bourg,18,POINT (6.636238926791935 46.52065777025345),neighbour,services pas quotidiens
+842,763,Olivier,cordonnier,rue St Etienne,6,POINT (6.63521771355322 46.5219207568837),Exact,textile
+843,764,Olivier,armurier,rue de Martheray,44,POINT (6.6382526275185 46.5202771962836),Exact,services pas quotidiens
+844,765,Ortolf,serrurier,montée de Pépinet,29,POINT (6.63200359669325 46.520274658643),Exact,services pas quotidiens
+845,766,Pache,instituteur,Escaliers du marché,14,POINT (6.63403243021079 46.5223994567183),Exact,éducation
+846,767,Pache,teinturier,Escaliers du marché,6,POINT (6.633689324097145 46.522167298639346),neighbour,textile
+847,768,Pache (Mmes.),blanchisseuses,Cheneau de Bourg,40,POINT (6.6366575802925 46.5206593399557),Exact,textile
+848,769,Pache (Dlle.),blanchisseuse,rue du Grand Jean,44,POINT (6.63068729803366 46.5217749172259),Exact,textile
+849,77,Bertholet,laitier,Cité-devant,29,POINT (6.63528276170333 46.5232209099414),Exact,alimentation quotidienne
+850,770,Pache (Mme),blanchisseuse,montée de la Palud,17,POINT (6.63341700267108 46.5213728527685),Exact,textile
+851,771,Pache,tailleur,rue du Pré,21,POINT (6.63553904395553 46.5209323840619),Exact,textile
+852,772,Pache (Auguste),tailleur,Chemin de Bourg,39,POINT (6.63659087184752 46.5206855694424),Exact,textile
+853,773,Pache (Dlles.),tailleuses en d a m es,rue du St Jean,3,POINT (6.63290121276364 46.5210162219963),Exact,textile
+854,774,Pache,charretier,Halle de St Laurent,59,POINT (6.62879663769884 46.5234251178521),bigger,services pas quotidiens
+855,775,Pache (M. H.),gardien de la cathédrale,Escaliers du marché,11,POINT (6.63388986534363 46.5223170570722),Exact,services pas quotidiens
+856,776,Paganetti,gypsier,Etraz,15,POINT (6.63859791070339 46.5193667425169),Exact,services pas quotidiens
+857,777,Pahud,aubergiste à l'Union,Halle de St François,54,POINT (6.63373357622335 46.5200839694089),bigger,alimentation quotidienne
+858,778,Pahud (G.),café et billard,Place St François,15,POINT (6.63311373521639 46.5200207822965),Exact,services pas quotidiens
+859,779,Pamblanc (M m es.),institutrices,Cheneau de Bourg,7,POINT (6.63629067855586 46.5204328220927),Exact,éducation
+860,78,Bertliolin frères,gypsiers,place de Chauderon,,POINT (6.63285041824104 46.5219863716031),Exact,services pas quotidiens
+861,780,Pamblanc,boulanger,place de la Palud,16,POINT (6.63253521088462 46.522225888111),Exact,alimentation quotidienne
+862,781,Pamblanc,marchand de chaux,place de St Laurent,2,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+863,782,Panchaud,maréchal,la Barre,45,POINT (6.63603804167853 46.525317695715),neighbour,services pas quotidiens
+864,783,Panchaud,instituteur de l'école des petits enfans,derrière la Halle de St Laurent,,POINT (6.62920999027171 46.5231260652846),smaller,éducation
+865,784,Panchaud,notaire,rue du Grand St Jean,51,POINT (6.63048631201367 46.5220965852674),Exact,services pas quotidiens
+866,785,Panchaud,armurier,Grand St Jean,36,POINT (6.63150435668389 46.5213290841347),Exact,services pas quotidiens
+867,786,Papou (Fr.),verrerie et cristaux porcelaine et de pipes,montée de Pépinet,7,POINT (6.63240698528515 46.5200027288224),Exact,artisanat
+868,787,Parmelin,agent d'affaires et de l'assurance contre l'incendie,rue de Bourg,34,POINT (6.63509558378297 46.5199559334918),Exact,services pas quotidiens
+869,788,Paquier,procureur,Martheray,54,POINT (6.63787782424609 46.519858796832),Exact,services pas quotidiens
+870,789,Pascal (Mme. veuve),vente de vin en gros et en détail,Cheneau de Bourg,21,POINT (6.636238926791935 46.52065777025345),neighbour,alimentation pas quotidienne
+871,79,Bertrand,chapelier,place St François,1,POINT (6.6338149555526 46.5199488527503),Exact,services pas quotidiens
+872,790,Paschoud (Mme. veuve.),aubergiste à l'hôtel Faucon,rue St Pierre,13,POINT (6.636880051086525 46.51965438353555),neighbour,alimentation pas quotidienne
+873,791,Paschoud (Eugène),draperie,rue de Bourg,2,POINT (6.63405031394745 46.5201412153517),Exact,textile
+874,792,Paschoud,traiteur,montée de la Palud,1,POINT (6.63334439147058 46.5210067462674),Exact,alimentation quotidienne
+875,793,Pellis,docteur médecin,rue de Bourg,7,POINT (6.63439749802706 46.5201555737937),Exact,services pas quotidiens
+876,794,Pellis (L.),docteur en droit,montée de la Palud,11,POINT (6.633178512434705 46.521449950170606),neighbour,services pas quotidiens
+877,795,Peneveyre,changeur de monnaies d'or et d'argent et de cuivre,Petit St Jean,2,POINT (6.63281107472154 46.5210687691895),Exact,services pas quotidiens
+878,796,Peneveyre (Dlle),modiste,montée de St François,24,POINT (6.63345101874466 46.5208043227176),Exact,textile
+879,797,Peneveyre,épicerie,Martheray,13,POINT (6.63979740718112 46.5213395823586),Exact,alimentation quotidienne
+880,798,Peneveyre,coiffeur,rue de Bourg,38,POINT (6.63417172842844 46.5200104974744),Exact,services pas quotidiens
+881,799,Penserot et Robert,soierie et quincaillerie,St François,20,POINT (6.63373357622335 46.5200839694089),bigger,textile
+882,8,Albertino (frères),lunettes et bijouteries,St François,11,POINT (6.63276609951937 46.519923744802),Exact,artisanat
+883,80,Bessières frères,bijoutiers,Etraz,37,POINT (6.63819357596961 46.5192988421652),Exact,artisanat
+884,800,Périraz,laitier,Cité-devant,23,POINT (6.63544532106292 46.5236318653816),Exact,alimentation quotidienne
+885,801,Pernet (Mme),institutrice,rue Chaucrau,32,POINT (6.63097264243576 46.5227693277717),Exact,éducation
+886,802,Perregaux,architecte,place St François,9,POINT (6.63264311519259 46.5198910228171),Exact,services pas quotidiens
+887,803,Perret,marchand frippier,rue du Pré,47,POINT (6.63425536901887 46.520958428194),Exact,services pas quotidiens
+888,804,Perret,docteur en médecine,rue de Bourg,38,POINT (6.63417172842844 46.5200104974744),Exact,services pas quotidiens
+889,805,Perrottet,épicerie et tabac,Montée de la Palud,15,POINT (6.6334032315813 46.5214727778791),Exact,services quotidiens
+890,806,Pertuson Campart (veuve et fils),fabricants de cotonne,St Etienne,11,POINT (6.63520611905617 46.5216574853204),Exact,artisanat
+891,807,Petit,tailleur,place de la Palud,11,POINT (6.63220168340833 46.5222419278231),Exact,textile
+892,808,Petillet (Dan.),librairie en langues française et étrangères,Cité-devant,3,POINT (6.63475307390216 46.523185720952),Exact,éducation
+893,809,Petipierre (Mme.),institutrice,rue de la Mercerie,21,POINT (6.63369788010864 46.521792402387),Exact,éducation
+894,81,Besson,cabaretier,place de la Palud,12,POINT (6.63209768021679 46.5222678381171),Exact,alimentation pas quotidienne
+895,810,Peyran,tabac et pipes et fabrique de fideys,montée de St François,12,POINT (6.63372288015321 46.5202254279728),Exact,services quotidiens
+896,811,Peytregnet,maître de musique,Mercerie,9,POINT (6.63460626436837 46.5216162097804),Exact,éducation
+897,812,Peytregnet (Dlles),tailleuses en dam es,rue du St Jean,12,POINT (6.63309901568933 46.5210420648845),Exact,textile
+898,813,Peytregnet,épicerie et tabac,St Pierre,16,POINT (6.63691459392217 46.5195333830083),Exact,services quotidiens
+899,814,Peytregnet,cordonnier,Grand St Jean,36,POINT (6.63150435668389 46.5213290841347),Exact,textile
+900,816,Pezzotti (P.),maître de chant italien,rue d' Etraz,15,POINT (6.63859791070339 46.5193667425169),Exact,éducation
+901,817,Pfluger (Marie),pose des sangsues et ventouse,Petit St Jean,5,POINT (6.632983213343605 46.52098348764365),neighbour,services pas quotidiens
+902,818,Pfluger (Louis),co-propriétaire du Bazar audois,montée de St Laurent,4,POINT (6.63167437822856 46.5222636585723),Exact,services pas quotidiens
+903,819,Pfünd (P.),laitier,place de la Palud,4,POINT (6.63259438511433 46.5219963963284),Exact,alimentation quotidienne
+904,82,Beyler (Mme.),maîtresse d'école,montée de la Palud,18,POINT (6.63343077376086 46.5213228901443),Exact,éducation
+905,820,Piccard (frères),marchands,rue de Bourg,14,POINT (6.6350258788031 46.5201125706079),Exact,services pas quotidiens
+906,821,Pichard,ingénieur des ponts et chaussées,St Laurent,7,POINT (6.63014281538008 46.5226314832004),Exact,services pas quotidiens
+907,822,Pillet,fabricant de chapeaux de paille,rue Grand St Jean,29,POINT (6.6321566857675 46.5212157361552),Exact,textile
+908,823,Pillet,cordonnier,rue du Grand St Jean,32,POINT (6.63179647711527 46.5212474736134),Exact,textile
+909,824,Pinget (Dlle.),marchande,rue de la Mercerie,1,POINT (6.63390816748844 46.5218317749584),Exact,services pas quotidiens
+910,825,Pinguely,confiseur,rue du Grand St Jean,21,POINT (6.632140770910995 46.5212960211754),neighbour,alimentation pas quotidienne
+911,826,Pinguely (Dlle.),institutrice,rue du Grand Jean,21,POINT (6.632140770910995 46.5212960211754),neighbour,éducation
+912,827,Piot (J.-M.),draperie,montée de St François,23,POINT (6.6335226578996 46.5207461807292),Exact,textile
+913,828,Piot,marchand de fer,rue St Pierre,1,POINT (6.63630889276248 46.5200176606318),Exact,services pas quotidiens
+914,829,Piot (veuve),marchande de volailles,montée St François,18,POINT (6.6335433604646 46.5200704293196),Exact,alimentation quotidienne
+915,83,Billard,toileries,montée de St François,11,POINT (6.63390289649123 46.5202077324031),Exact,textile
+916,830,Piot (Auguste),peintre,rue St Pierre,16,POINT (6.63691459392217 46.5195333830083),Exact,artisanat
+917,831,Piolet (frères),confiseurs et pâtissiers,place la Palud,4,POINT (6.63259438511433 46.5219963963284),Exact,alimentation quotidienne
+918,832,Piot (Mme.),faiseuse de corsets,rue de la Mercerie,1,POINT (6.63390816748844 46.5218317749584),Exact,artisanat
+919,833,Piolet,cartonnier,rue de la Mercerie,4,POINT (6.63422574434775 46.5217028296807),Exact,artisanat
+920,834,Pittet,ébéniste,la Barre,4,POINT (6.63537784156262 46.5252391544126),smaller,artisanat
+921,835,Police (bureau de),pour les permis de séjour,hôtel de ville,,POINT (6.632843 46.521813),Exact,services pas quotidiens
+922,836,Ponnaz,cabaretier,Cité-devant,9,POINT (6.63539965832138 46.5239535897954),Exact,alimentation pas quotidienne
+923,837,Porchet,boulanger,montée de St Laurent,2,POINT (6.63184406970923 46.5222698038387),Exact,alimentation quotidienne
+924,838,Porchet (veuve),traiteur,Escalier du marché,5,POINT (6.63363514944763 46.5221143272521),Exact,alimentation quotidienne
+925,839,Porchat,négociant en soierie,place de St François,9,POINT (6.63264311519259 46.5198910228171),Exact,textile
+926,84,Bischoff,pharmacien,rue de Bourg,4,POINT (6.63420197409019 46.5201512685168),Exact,services pas quotidiens
+927,840,Pouly,menuisier,Etraz,5,POINT (6.63796679980892 46.5194555488961),Exact,services pas quotidiens
+928,841,Pouly,traiteur,place St François,10,POINT (6.63270460735598 46.51990738380955),neighbour,alimentation quotidienne
+929,842,Pouly,voiturier,Grand St Jean,24,POINT (6.632140770910995 46.5212960211754),neighbour,services pas quotidiens
+930,843,Prenleloup,perruquier et coiffeur,au coin de la Madeleine,1,POINT (6.63292791259058 46.5221308835658),Exact,services pas quotidiens
+931,844,Prenleloup,marchand,place de la Palud,6,POINT (6.63249396823973 46.522054386279),Exact,services pas quotidiens
+932,845,Prévost de la Trémoullle,maître de musique organiste à St François,place de St François,1,POINT (6.6338149555526 46.5199488527503),Exact,
+933,846,Prince,menuisier,Halle de St Laurent,74,POINT (6.62879663769884 46.5234251178521),bigger,services pas quotidiens
+934,847,Pupunat (François),facteur de violons,rue du St Jean,3,POINT (6.63290121276364 46.5210162219963),Exact,artisanat
+935,848,Ramel,traiteur,Martheray,13,POINT (6.63979740718112 46.5213395823586),Exact,alimentation quotidienne
+936,849,Ramel (L.),cordonnier,montée de St Laurent,7,POINT (6.63143957592506 46.5222636585724),Exact,textile
+937,85,* Bissat,fabricant de casquettes,montée de St Laurent,2,POINT (6.63184406970923 46.5222698038387),Exact,artisanat
+938,850,Ramelet,menuisier et ébéniste,rue de la Madeleine,5,POINT (6.63292187819859 46.5225352561157),Exact,artisanat
+939,851,Ramuz,sellier,rue Martheray,48,POINT (6.63812715689512 46.5201399439086),Exact,services pas quotidiens
+940,852,Rapaz,cabaretier,rue de Martheray,53,POINT (6.63791643059175 46.5199074995794),Exact,alimentation pas quotidienne
+941,853,Ravessoud,fondeur,rue du Pré,19,POINT (6.63532782992256 46.5209504842359),Exact,services pas quotidiens
+942,854,Ravina (veuve et fils),produits du midi et de l'Italie,place St François,19,POINT (6.63373357622335 46.5200839694089),Exact,alimentation pas quotidienne
+943,855,Rebillet (Dlle.),traiteur,rue Mercerie,6,POINT (6.6344074211997 46.5216526295281),Exact,alimentation quotidienne
+944,856,Recordon,architecte,place de St Laurent,7,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+945,857,Recordon (François),marchand de vin et de farine,à Ouchy,,POINT (6.627461 46.507124),Exact,alimentation pas quotidienne
+946,858,Regamey,cabaretier,rue de la Madeleine,17,POINT (6.63309898073266 46.522108711315),Exact,alimentation pas quotidienne
+947,859,Regamey,charpentier,rue de la Mercerie,14,POINT (6.6343473390912 46.5215916018291),Exact,services pas quotidiens
+948,86,Blanc (Gabriel),marchand de soieries,rue de Bourg,8,POINT (6.6344788359848 46.5201577264319),Exact,textile
+949,860,Regamey (Christ),charpentier,Cité-derrière,33,POINT (6.63552959573687 46.523011692913),bigger,services pas quotidiens
+950,861,Regamey,cordonnier,rue de Bourg,24,POINT (6.63603210891203 46.5200784628707),Exact,textile
+951,862,Regamey,potier de terre,rue Martheray,56,POINT (6.63779417716384 46.5197691393875),Exact,artisanat
+952,863,Regamey-Girard (veuve),tient des pensionnaires,rue St Pierre,26,POINT (6.63626776418737 46.5198566396352),Exact,services quotidiens
+953,864,Regamey,tailleur,Martheray,39,POINT (6.63844405064904 46.520472005511),Exact,textile
+954,865,Renz (frères),quincaillerie et joujoux d'enfans,de Bourg,35,POINT (6.63493331472058 46.5199692838612),Exact,artisanat
+955,866,Reisser,coiffeur,rue du Grand St Jean,20,POINT (6.632140770910995 46.5212960211754),neighbour,services pas quotidiens
+956,867,Reiser (Henri),culottier,montée de St Francois,8,POINT (6.63391575480106 46.5203492967993),Exact,textile
+957,868,Renaud (aîné),lampiste et objets en tôle vernie,rue de Bourg,3,POINT (6.63411907194097 46.5201458869203),Exact,artisanat
+958,869,* Renaud (Ch. et cadet),ferblantier et lampiste et magasin d'objets en tôle vernie et huile épurée,montée de la Palud,21,POINT (6.6335021330442 46.5211652491495),Exact,artisanat
+959,87,Blanc (Louis),aubergiste au Guillaume Tell,la Barre,13,POINT (6.63578089117651 46.5254003559991),Exact,alimentation pas quotidienne
+960,870,Renaud,confiseur,Cité-devant,28,POINT (6.63529372076128 46.5232648961463),Exact,alimentation pas quotidienne
+961,871,Renaud,tailleur,Cheneau de Bourg,6,POINT (6.63628488059364 46.5203809578692),Exact,textile
+962,872,Renou-Reimbach,teinturier,Montée de la Palud,13,POINT (6.63315034429654 46.5215477215915),Exact,textile
+963,873,Renou-Burnens,épicerie et coton et fabrique draps en laine et colonne et teinture,rue Mercerie,12,POINT (6.63445033699151 46.5215660095478),Exact,artisanat
+964,875,Renou-Hoffmann (veuve),toilerie indienne,de St Laurent,1,POINT (6.63042490255722 46.5222179793013),Exact,textile
+965,876,R ey(F.),quincaillerie et armurerie,rue St Pierre,8,POINT (6.636880051086525 46.51965438353555),neighbour,artisanat
+966,877,* Reybaz,menuisier et sculpteur,rue de la 8,,POINT (6.62827169418228 46.5237206374163),smaller,artisanat
+967,878,Reymond,instituteur,montée de St Laurent,8,POINT (6.63128832290748 46.5222666320885),Exact,éducation
+968,878,Heymond,hôtel d'Angleterre,St Pierre,24,POINT (6.63645497011562 46.5197610026962),Exact,services pas quotidiens
+969,879,Reymond et Oheim (successeurs de Henrich),boutonniers et passementiers et enjoliveurs,place de la Palud,,POINT (6.63285041824104 46.5219863716031),Exact,artisanat
+970,88,Blanc,tisserand,chemin des Eaux,,POINT (6.64087397955729 46.5214954021178),only,textile
+971,880,Reymond et Guignard (Dlles. '),modistes,place la Palud,8,POINT (6.63238817188972 46.5221197791278),Exact,textile
+972,881,Reymond,horloger,rue d' Etraz,3,POINT (6.63785192344386 46.5194711631895),Exact,services pas quotidiens
+973,882,Reymond (Dde.),modiste,Martheray,39,POINT (6.63844405064904 46.520472005511),Exact,textile
+974,883,Reymond (Alex.),marbrier,rue de Chaucrau,16,POINT (6.631200790552895 46.52314453234785),neighbour,artisanat
+975,884,Reynard (ülle.),institutrice,rue de Bourg,14,POINT (6.6350258788031 46.5201125706079),Exact,éducation
+976,885,Reynier,capitaine et commandant de la gendarmerie,Martheray,34,POINT (6.63934802619018 46.5209735184487),Exact,services pas quotidiens
+977,886,Richardet,cordonnier,Cheneau de Bourg,47,POINT (6.63658372451418 46.520411798552),Exact,textile
+978,887,Richon (père),courtier,Petit St Jean,4,POINT (6.632983213343605 46.52098348764365),neighbour,services pas quotidiens
+979,888,Richon (fils),courtier,Grand St Jean,40,POINT (6.6312232182236 46.5214514996868),Exact,services pas quotidiens
+980,889,Richter,tailleur,rue de Martheray,39,POINT (6.63844405064904 46.520472005511),Exact,textile
+981,89,Blanc,charron,rue de Chaucrau,13,POINT (6.63110618321181 46.5231977045194),Exact,services pas quotidiens
+982,890,Rieder,maréchal,Martheray,24,POINT (6.640203507964445 46.52133557180665),neighbour,services pas quotidiens
+983,891,Rieder,tisserand,Martheray,24,POINT (6.640203507964445 46.52133557180665),neighbour,textile
+984,892,Rion (veuve),marchande,Rue de la Madeleine,4,POINT (6.63294376173799 46.5223778377204),Exact,services pas quotidiens
+985,893,Rion (Mme.),marchande,de la rue Mercierie,2,POINT (6.63399829065121 46.521799292589),Exact,services pas quotidiens
+986,894,Rion,cordonnier,rue Mercerie,2,POINT (6.63399829065121 46.521799292589),Exact,textile
+987,895,Ritz,cordonnier,Cité-dessous,34,POINT (6.63605153982168 46.522119469269754),neighbour,textile
+988,896,Robélaz,quincaillerie,rue de Bourg,30,POINT (6.63567191488292 46.5199261147179),Exact,services pas quotidiens
+989,897,Robélaz (JD IIe.),quincaillerie,montée de St François,8,POINT (6.63391575480106 46.5203492967993),Exact,services pas quotidiens
+990,898,Robert,graveur,Grand St Jean,25,POINT (6.632140770910995 46.5212960211754),neighbour,artisanat
+991,899,Robert,instituteur,Escaliers du marché,5,POINT (6.63363514944763 46.5221143272521),Exact,éducation
+992,9,Aider (J.J.),commissionnaire,Montée St François,3,POINT (6.63351804950803 46.5192170210639),Exact,services pas quotidiens
+993,90,Blanc,fondeur,rue du Grand St Jean,31,POINT (6.63188652927834 46.5212036456902),Exact,services pas quotidiens
+994,900,Robert (Dlles.),modistes,rue du Grand St Jean,52,POINT (6.63046207023712 46.5221402102708),Exact,textile
+995,901,Robin (Mme.),tailleuse en dames,rue St Pierre,3,POINT (6.63647198883634 46.5199591075973),Exact,textile
+996,902,Robin (Mme.),épicerie,Cheneau de Bourg,22,POINT (6.636238926791935 46.52065777025345),neighbour,alimentation quotidienne
+997,903,Robin,tourneur,Cheneau de Bourg,7,POINT (6.63629067855586 46.5204328220927),Exact,artisanat
+998,904,Roch,cordonnier,place St Laurent,20,POINT (6.63056624220695 46.5223747951496),only,textile
+999,905,Rochat (frères),épicerie en gros et en détail,place de la Palud,18,POINT (6.63268942251345 46.5221641968668),Exact,services quotidiens
+1000,906,Roch (Dlle.),blanchisseuse,Petit-Chêne,4,POINT (6.6318356773427 46.5192576011726),Exact,textile
+1001,907,Roch (Mme.),marchande de soques,rue du Pré,42,POINT (6.63472423657425 46.5209474909381),Exact,services pas quotidiens
+1002,908,Rochat (Christ),boulanger,montée de St François,9,POINT (6.63391942860389 46.5202949462265),Exact,alimentation quotidienne
+1003,909,Rochat,boulanger,place de St Laurent,11,POINT (6.63056624220695 46.5223747951496),only,alimentation quotidienne
+1004,91,Blanchard,imprimeurs et relieurs,Petit­ St Jean,3,POINT (6.63290121276364 46.5210162219963),Exact,services pas quotidiens
+1005,910,Rochat,serrurier,Escaliers du marché,5,POINT (6.63363514944763 46.5221143272521),Exact,services pas quotidiens
+1006,911,Rochat,négociant,rue St Pierre,7,POINT (6.6367074144734 46.5198341942462),Exact,services pas quotidiens
+1007,912,Rochat,cordonnier,rue St Pierre,21,POINT (6.63665328020109 46.519646857485),Exact,textile
+1008,914,Rochat (Bénedict),meunier au Pas des Anes,Sous Pepinet,1,POINT (6.631656 46.520485),Exact,alimentation pas quotidienne
+1009,915,Rochat (Georges),meunier,la Barre,47,POINT (6.63603804167853 46.525317695715),neighbour,alimentation pas quotidienne
+1010,917,Rochat,tailleur,Cheneau de Bourg,9,POINT (6.63632401683869 46.5205574955041),Exact,textile
+1011,918,Rogivue,procureur-juré,Place de la Palud,17,POINT (6.63259438511429 46.5221987439722),Exact,services pas quotidiens
+1012,919,Rollier (Mme.),voiturier,Grand Chêne,27,POINT (6.63156270920303 46.5198404431308),bigger,services pas quotidiens
+1013,92,Blanchard (Marc),épicier,place St Laurent,24,POINT (6.63056624220695 46.5223747951496),only,alimentation quotidienne
+1014,920,Rossat,sellier,Grand Chêne,25,POINT (6.63156270920303 46.5198404431308),Exact,services pas quotidiens
+1015,921,Rosset,jardinier,Etraz,16,POINT (6.6391349220092994 46.519297529808455),neighbour,services pas quotidiens
+1016,922,Rossier,maréchal,Halle de St Laurent,43,POINT (6.62772377334015 46.5237619857046),Exact,services pas quotidiens
+1017,923,Rosset (veuve),confiseur,place de St Laurent,7,POINT (6.63056624220695 46.5223747951496),only,alimentation pas quotidienne
+1018,924,Roupff (père),tonnelier,Halle de St Laurent,36,POINT (6.627514411144005 46.52373672046925),neighbour,alimentation pas quotidienne
+1019,925,Roupff (fils),tonnelier,montée de St Laurent,19,POINT (6.63154658274144 46.5224608212554),Exact,alimentation pas quotidienne
+1020,926,Rouge (père),notaire et greffier du Tribunal de District et son bureau est au rez-de-chaussée de,l'hôtel de ville,,POINT (6.632843 46.521813),Exact,services pas quotidiens
+1021,927,Rouge,avocat,Etraz,15,POINT (6.63859791070339 46.5193667425169),Exact,services pas quotidiens
+1022,928,Rouge (Samuel),vins du pays et de l'étranger,Grand-Chêne,4,POINT (6.63166741947389 46.5196803822065),Exact,alimentation pas quotidienne
+1023,929,Rouge,cabaretier,Place de la Palud,5,POINT (6.63254776299398 46.5220272420545),Exact,alimentation pas quotidienne
+1024,93,Blanchard (veuve),tripière,rue du Pré,40,POINT (6.63485508793449 46.5209346284474),Exact,alimentation quotidienne
+1025,930,* Rouiller (G .},libraire et tient cabinet littéraire et journaux et lithographies et ouvrages d'agréments,rue de Bourg,12,POINT (6.63488708844325 46.5201353090873),Exact,éducation
+1026,931,Rouiller (Dlle.),modiste,rue de Bourg,35,POINT (6.63493331472058 46.5199692838612),Exact,textile
+1027,932,* Rouiller,menuisier et ébéniste,place de Chaudron,0,POINT (6.63285041824104 46.5219863716031),Exact,artisanat
+1028,933,Roussi,cabaretier,rue du Pré,18,POINT (6.6352656641907 46.5209596832834),Exact,alimentation pas quotidienne
+1029,934,Roux,coiffeur,montée de St François,13,POINT (6.63372471705461 46.5202734587758),Exact,services pas quotidiens
+1030,935,Roux (Dlle.),modiste,montée de St François,14,POINT (6.63373022775883 46.5203252814367),Exact,textile
+1031,936,Roy (père et fils),draperie et toilerie,rue Bourg,30,POINT (6.63567191488292 46.5199261147179),Exact,textile
+1032,938,Rubatel,coiffeur,rue du Grand St Jean,47,POINT (6.63059724587058 46.5219063995067),Exact,services pas quotidiens
+1033,939,Ruffi,raccommodeur de faïence,Chaucrau,28,POINT (6.6310994776788 46.5228981937158),Exact,artisanat
+1034,94,Blanchet,confiseur,rue de Bourg,14,POINT (6.6350258788031 46.5201125706079),Exact,alimentation pas quotidienne
+1035,940,Rumpf,artiste et mécanicien,Chemin-Neuf,4,POINT (6.63354430496845 46.52415066110355),neighbour,artisanat
+1036,941,Rumpf (Dlle.),marchande,rue Mercerie,5,POINT (6.63431872856332 46.5216801904019),Exact,services pas quotidiens
+1037,942,Rusillon,serrurier,rue du Grand St Jean,8,POINT (6.63113755884895 46.521633474937),Exact,services pas quotidiens
+1038,943,Sagne,menuisier,Grand St Jean,13,POINT (6.63162580648235 46.5214298211786),Exact,services pas quotidiens
+1039,944,Salchly,menuisier,place de St Laurent,9,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+1040,945,Sandtmeyer,ferblantier,rue Chaucrau,35,POINT (6.6309030300542 46.5226606362045),Exact,services pas quotidiens
+1041,946,Sartoris,fumiste,Cheneau de Bourg,22,POINT (6.636238926791935 46.52065777025345),neighbour,services pas quotidiens
+1042,947,Saucon (Alex.),teinturier et filature et foule,montée de St Laurent,3,POINT (6.63174582727305 46.5222698038387),Exact,textile
+1043,948,Saunier,procureur-juré,Grand St Jean,21,POINT (6.632140770910995 46.5212960211754),neighbour,services pas quotidiens
+1044,949,Sauter,boulanger,rue du Pré,15,POINT (6.63504106541755 46.5209891202249),Exact,alimentation quotidienne
+1045,95,Blanchet,tanneur,rue du Pré,35,POINT (6.63518306601927 46.5208662233315),Exact,textile
+1046,950,Savary,tonnelier,montée de St Laurent,19,POINT (6.63154658274144 46.5224608212554),Exact,alimentation pas quotidienne
+1047,951,Scherer (Mme. Louise),indiennes,rue de Bourg,30,POINT (6.63567191488292 46.5199261147179),Exact,textile
+1048,952,Schira (Gaudenzio),vitrier et magasin de verrerie,montée de St François,15,POINT (6.63373022775882 46.5203720481857),Exact,artisanat
+1049,953,Scherler et Simonet,fabricants de casquettes,place de la Palud,16,POINT (6.63253521088462 46.522225888111),Exact,textile
+1050,954,Schleicher,menuisier,Montée de St Laurent,11,POINT (6.63101219230631 46.5224715309083),Exact,services pas quotidiens
+1051,955,Schlaich (fils),sellier,Grand St Jean,16,POINT (6.6318094394418 46.5213837388354),Exact,services pas quotidiens
+1052,956,Schlaich (Mme.),blanchisseuse,Grand St Jean,16,POINT (6.6318094394418 46.5213837388354),Exact,textile
+1053,957,Schlæfli,sellier,rue de Martheray,50,POINT (6.63804350981286 46.5200513938052),Exact,services pas quotidiens
+1054,958,Schlesinger,négociant,rue de Bourg,36,POINT (6.63469520250944 46.5200190442999),Exact,services pas quotidiens
+1055,959,Schlittler-Renou (Mme.),indiennes et modes,montée de St François,11,POINT (6.63390289649123 46.5202077324031),Exact,textile
+1056,96,Blanchenay,docteur en droit,Place de St Laurent,24,POINT (6.63056624220695 46.5223747951496),only,services pas quotidiens
+1057,960,Schmiderlet,tonnelier,Petit-Chêne,4,POINT (6.6318356773427 46.5192576011726),Exact,alimentation pas quotidienne
+1058,961,Schmidhauser,tonnelier,rue du Pré,23,POINT (6.63568518605738 46.5209358516082),Exact,alimentation pas quotidienne
+1059,962,Schnell,aubergiste,rue de Bourg,17,POINT (6.63552155865972 46.5200841474952),Exact,alimentation quotidienne
+1060,963,Schopffer,débiteur de sel et épicerie,montée de St François,24,POINT (6.63345101874466 46.5208043227176),Exact,alimentation pas quotidienne
+1061,964,Schopffer,relieur,Escaliers du marché,10,POINT (6.63384994718082 46.5222882825631),Exact,services pas quotidiens
+1062,965,Schönhoffer,marchand et bureau de sel,montée­ de la Palud,6,POINT (6.63322420741441 46.5212755117514),Exact,alimentation pas quotidienne
+1063,966,Schöenberger (de St Gall),marchand de mousseline,rue de Bourg,13,POINT (6.63597097506305 46.5200841474951),Exact,artisanat
+1064,967,Schock (Dlle.),courtepointière,rue du Grand St Jean,2,POINT (6.63077407269106 46.5219329775347),Exact,services pas quotidiens
+1065,968,Scholl,docteur en médecine,rue St Pierre,4,POINT (6.63653580903916 46.5199073856977),Exact,services pas quotidiens
+1066,969,Schoulz (Dlles.),modistes,montée de la Palud,18,POINT (6.63343077376086 46.5213228901443),Exact,textile
+1067,97,Blatter,épicier,rue du Pré,44,POINT (6.63459848331895 46.5209550914995),Exact,alimentation quotidienne
+1068,970,Schurch,menuisier,Petit-Chêne,1,POINT (6.63194297366533 46.51944671375),Exact,services pas quotidiens
+1069,971,Sébastian,dégraisseur,Grand St Jean,31,POINT (6.63188652927834 46.5212036456902),Exact,services pas quotidiens
+1070,972,Secretan (S.),docteur en droit,Cité-devant,21,POINT (6.63553299352654 46.5237638228912),Exact,services pas quotidiens
+1071,973,Secretan (Emile),architecte,montée de la Palud,14,POINT (6.63339572007778 46.5215408302199),Exact,services pas quotidiens
+1072,974,* Secretan-Mercier (Marc),mathématicien,rue de la Madeleine,15,POINT (6.63310195611699 46.5222653285043),Exact,éducation
+1073,975,Semauraud,maçon,Cité-derrière,47b,POINT (6.63552959573687 46.523011692913),bigger,services pas quotidiens
+1074,976,Seuff,boulanger,rue de la Madeleine,13,POINT (6.63309600534825 46.522403519767),Exact,alimentation quotidienne
+1075,977,Siber,armurier,Escaliers du marché,12,POINT (6.63393358523622 46.5223353681155),Exact,services pas quotidiens
+1076,978,Siber (Jacob) (fils),graveur,Escaliers du marché,12,POINT (6.63393358523622 46.5223353681155),Exact,artisanat
+1077,979,Sicard,chapelier,Martheray,37,POINT (6.63902963068985 46.5207696863389),Exact,services pas quotidiens
+1078,98,Blondel,épicerie,place de la Palud,3,POINT (6.63267149092874 46.5219643167547),Exact,alimentation quotidienne
+1079,980,Siegfried (Nicolas),marchand,rue de Mar­theray,44,POINT (6.6382526275185 46.5202771962836),Exact,services pas quotidiens
+1080,981,Simmen (Mme.),blanchisseuse,Cité-derrière,27,POINT (6.63596890973263 46.5231322727384),Exact,textile
+1081,982,Simond (Albert),épicerie,place de la Palud,2,POINT (6.63303550209915 46.5217138486624),Exact,alimentation quotidienne
+1082,983,Simond (Ami) (fils),épicerie et fournitures bureau,place de St Laurent,51,POINT (6.63056624220695 46.5223747951496),only,services quotidiens
+1083,984,Simon (Fridolin),architecte,montée de Pépinet,29,POINT (6.63200359669325 46.520274658643),Exact,services pas quotidiens
+1084,985,Sion,confiseur,place de la Palud,24,POINT (6.633409461425 46.5216458777729),Exact,alimentation pas quotidienne
+1085,986,Solier,traiteur,rue St Pierre,23,POINT (6.6365116991848 46.5197268466058),Exact,alimentation quotidienne
+1086,987,Spach,draperie,place du Pont,1,POINT (6.63370223635168 46.521022974076),Exact,textile
+1087,988,* Specht,ébéniste,Halle de St Laurent,20,POINT (6.62823391789598 46.5232780360168),Exact,artisanat
+1088,989,* Spengler,lithographe,Etraz,39,POINT (6.63808925590561 46.5193124719802),Exact,artisanat
+1089,99,Blondel,potier de terre,Etraz,15,POINT (6.63859791070339 46.5193667425169),Exact,artisanat
+1090,990,Spring,maçon,rue du Pré,24,POINT (6.63580411549199 46.520954576355),Exact,services pas quotidiens
+1091,991,Spring,instituteur,rue de la Mercerie,17,POINT (6.63399542959844 46.5217215316866),Exact,éducation
+1092,992,Steiner,cordonnier,Cheneau de Bourg,22,POINT (6.636238926791935 46.52065777025345),neighbour,textile
+1093,993,Steiner,sellier,rue de Bourg,18,POINT (6.6356273036958 46.5200841474951),Exact,services pas quotidiens
+1094,994,Steiner,tailleur,rue St Pierre,7,POINT (6.6367074144734 46.5198341942462),Exact,textile
+1095,995,Steiner,voiturier,rue St Pierre,11,POINT (6.636880051086525 46.51965438353555),neighbour,services pas quotidiens
+1096,996,Stiffel,bijoutier,montée de St François,22,POINT (6.63357960184327 46.5206817188869),Exact,artisanat
+1097,997,Stœhly,sellier,Cheneau de Bourg,40,POINT (6.6366575802925 46.5206593399557),Exact,services pas quotidiens
+1098,998,Stockly,traiteur,rue du Grand St Jean,6,POINT (6.630953628572881 46.5217708018141),neighbour,alimentation quotidienne
+1099,999,Strubin,teinturier,rue du Pré,45,POINT (6.63451266521905 46.5209603534259),Exact,textile
