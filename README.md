@@ -6,7 +6,7 @@ https://leafletjs.com/
 ### 1810
 ﻿**nom_rue**;
 **no_maison**;
-proprietaire_nom;
+**proprietaire_nom**;
 chef_prenom;
 chef_nom;
 chef_annee_naissance;
@@ -23,3 +23,5 @@ nb_domestiques;
 nb_ouvriers;n
 b_pensionnaires;
 observations;
+### 1832
+﻿;**nom_rue**;**no_maison**;**proprietaire_nom**;chef_prenom;chef_nom;chef_annee_naissance;epouse_nom;epouse_annee_naissance;enfants_dans_la_commune_prenom;enfants_annee_naissance;chef_origine;chef_annee_arrivee;chef_vocation;chef_recepisse;pensionnaires_prenom;pensionnaires_nom;pensionnaires_origine;pensionnaires_condition;pensionnaires_recepisse;observations;Page
