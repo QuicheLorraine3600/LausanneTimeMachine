@@ -25,6 +25,22 @@ looking at the data, we can tell that there is a lot of homonyms collisions
 as names like francois and louis are very common:
 We conclude that the dataset is not coherent enough between 1810 and 1832 
 to conclude anything regarding social reproduction around that time
+
+from what we know about the extraction of texts from the scan of the census :
+- numbers are difficult to read : date of births are not usable
+- first names might vary in spelling
+
+What to do now : 
+1. we need to include other years
+
+2. history of professional reconversion in Lausanne
+we might get better by focusing on house heads first (house address, family name, job)
+we can track one person between 1835, 1856, 1857... and see if they change jobs
+
+3. following children :
+follow the evolution of the childrens count between the years to identify mistakes : 
+if in 1832 there is 6 childrens, in 1850 0 and 5 in 1853, we can assume that there is
+a mistake in 1850
 '''
 
 recens1810 = pd.read_csv('recensements/1810.csv', delimiter=';')
