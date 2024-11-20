@@ -1,6 +1,13 @@
 ## Useful links : 
 https://leafletjs.com/
 
+## ideas to explore :
+
+make a mann kendall test on the data https://www.statisticshowto.com/mann-kendall-trend-test/ to find patterns
+
+## bias to take into account :
+people pay to be in the annuaire
+female are not represented in the census
 
 ## type of information that can be found in the census : 
 ### 1810
