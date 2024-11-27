@@ -1,4 +1,4 @@
-﻿id;division;nom_rue;no_maison_htr;proprietaire_nom;chef_prenom;chef_nom;chef_annee_naissance;epouse_nom;epouse_annee_naissance;enfants_dans_la_commune_prenom;enfants_annee_naissance;chef_origine;chef_vocation;chef_recepisse;pensionnaires_prenom;pensionnaires_nom;pensionnaires_origine;pensionnaires_condition;pensionnaires_recepisse_line_corr;Page
+﻿id;division;nom_rue;no_maison;proprietaire_nom;chef_prenom;chef_nom;chef_annee_naissance;epouse_nom;epouse_annee_naissance;enfants_dans_la_commune_prenom;enfants_annee_naissance;chef_origine;chef_vocation;chef_recepisse;pensionnaires_prenom;pensionnaires_nom;pensionnaires_origine;pensionnaires_condition;pensionnaires_recepisse;Page
 6;1;marterey;1;favrat;francois;favrat;1807;henry;1815;sans enfant;sans enfant;lausanne;agent d'affaires;·;sans pensionnaires;·;·;·;·;1
 7;1;marterey;·;·;francois david;bally;1800;favrat;1802;sans enfant;sans enfant;boussens;sans vocation;·;alexis;despond;bioley-orjulaz;commis;12019;1
 8;1;marterey;·;·;christian;prost;1798;·;celibataire/veuf;sans enfant;sans enfant;wurtemberg;traiteur;1718;marguerite|made leine|edouard|benoit;bachelin|grundwald|koch|kubler;wurtemberg|wurtemberg|aarau|duche de bade;domestique|domestique|commis|sommelier;167|22601|·|8495;1
@@ -945,7 +945,7 @@
 960;2;petit st jean;;·;veuve de jean marc;michaud;1790;·;celibataire/veuf;louise;1820;ligny?;tailleuse;5648;sans pensionnaires;·;·;·;·;36
 961;2;petit st jean;5;·;veuve de charles;bassin;nee;grosjean;1797;charles|isaline|henriette;1828|1836|1837;marchissy;blanchisseuse;2728;sans pensionnaires;·;·;·;·;36
 962;2;petit st jean;;·;benjamin;bassin;1831;coeytaux;1834;charles;1854;marchissy;horloger;2587;sans pensionnaires;·;·;·;·;36
-963;2;petit st jean;;·;jean rodolphe ;parisod;1800;girard;1802;louise|auguste|fanny|rosine|antoine;1830|1835|1837|1841|1844;lausanne;orfevre;·;jean francois|pierre|jacques|henry;zulauf|schlappi|megroz|ponnaz;berne|berne|lutry|cully;relieur|menuisier|passementier|cordonnier;940172251178297;36
+963;2;petit st jean;;·;jean rodolphe ;parisod;1800;girard;1802;louise|auguste|fanny|rosine|antoine;1830|1835|1837|1841|1844;lausanne;orfevre;·;jean francois|pierre|jacques|henry;zulauf|schlappi|megroz|ponnaz;berne|berne|lutry|cully;relieur|menuisier|passementier|cordonnier;9,40172E+14;36
 964;2;petit st jean;;·;jean victor;devenoge;1817;hirtz;1825;jenny|josephine;1847|1851;ferreyres;ecrivain public;7046;sans pensionnaires;·;·;·;·;36
 965;2;petit st jean;;·;femme d'andre;brunner;nee;bippert;1805;emile;1831;saint-gall;rentiere;222;sans pensionnaires;·;·;·;·;36
 966;2;petit st jean;6;treyvaud;jean daniel;treyvaud;1821;sechaud;1819;marie|elise|jean daniel|louise;1845|1846|1849|1852;cudrefin;pintier;1300;sans pensionnaires;·;·;·;·;36
@@ -3447,7 +3447,7 @@
 3510;5;;9;gaulis;louis;gaulis;1801;perret;·;eugene|charles|victor|rodolph|louis benjamin|louise;1833|1835|1837|1838|1843|1845;lausanne;·;;aime|marie|josephine|francoise;favrod|joyet|colomb?|sechaud;chateau-d'oex|cheseaux-sur-lausanne|brovenaz?|sullens;domestique|domestique|institutrice|domestique;;134
 3511;5;cite devant;;·;louis;bize;1817;baud;1822;marc francois louis|louis francois samuel;1851|1853;villarzel;pintier;;jenny;narbel;vuarrens;domestique;;134
 3512;5;cite devant;10;gindroz;veuve de francois;favrat;·;pamblanc;1802;sabine|georges|pauline|auguste;1829|1837|1838|1841;lausanne;casernier;;edouard|jean;simond|decoulaye?;yverdon|morges;pensionnaire|pensionnaire;;134
-3513;5;cite devant;9 a;bolle;louis;bolle;1800;guex;1804;jenny;1830;les verrieres;cafetier;2169;louis;beguin;saint-legier-la chiesaz;domestique;·;134
+3513;5;cite devant;9:00 AM;bolle;louis;bolle;1800;guex;1804;jenny;1830;les verrieres;cafetier;2169;louis;beguin;saint-legier-la chiesaz;domestique;·;134
 ;5;cite devant;11 et 12;·;n/a;;n/a;·;n/a;n/a;n/a;·;·;·;n/a;·;·;·;·;134
 3514;5;cite devant;13;chateau;jean louis;grandchamp;1790;mercier;1832;marie;1854;chexbres;concierge;;louis|elise;blanchoud|tschumy;oron-le-chatel|epesses;domestique|domestique;;134
 3515;5;cite devant;14;pittet;auguste;lambelet;1825;champrenaud;1823;sans enfant;sans enfant;forel (lavaux);pintier;;pauline|jean auguste;chevallay|brelaz;saint-gingolphe|forel (lavaux) et lutry;domestique|pensionnaire;;134
@@ -3933,7 +3933,7 @@
 4030;4 rurale;borde;;dapples;auguste ;ceresole;1800;kuenzer;1805;paul|adolphe|auguste|alfred|sebastien;1833|1836|1840|1842|1845;vevey;ministre;6049;charles|gottlieb arnold|louise;mestral|hopf|corbaz;payerne|thoune|belmont-sur-lausanne;pensionnaire|pensionnaire|domestique;·|541;160
 4031;4 rurale;borde;;dapples;jean louis;droguet;1810;bize;1816;david|francois|elisa|edouard davis|julie|jenny|eugene ernest;1841|1843|1846|1848|1850|1851|1853;corporation vaudoise;maitre valet;5564;sans pensionnaires;·;·;·;·;160
 4032;4 rurale;sous la borde;19;dapples;henri;dubrit;1811;linder;1807;louis|adrien|auguste|hortense|marie;1838|1840|1844|1847|1850;moudon;horloger;3;sans pensionnaires;·;·;·;·;160
-4033;4 rurale;petit château;;gaudin;jean daniel;;1780;gaudin;1788;celina;1818;denezy;instituteur;1616;joseph|henri|william|john|madeleine;hornung prof|curchod|rushton|taylor|tritten;geneve|vevey|angleterre|angleterre|st. stephan;pensionnaire|pensionnaire|pensionnaire|pensionnaire|domestique;1480276635138;160
+4033;4 rurale;petit château;;gaudin;jean daniel;;1780;gaudin;1788;celina;1818;denezy;instituteur;1616;joseph|henri|william|john|madeleine;hornung prof|curchod|rushton|taylor|tritten;geneve|vevey|angleterre|angleterre|st. stephan;pensionnaire|pensionnaire|pensionnaire|pensionnaire|domestique;1,48028E+12;160
 4034;4 rurale;petit château;;gaudin;henri;olivier;1799;·;celibataire/veuf;sans enfant;sans enfant;lausanne;ministre;;madame|stephanas|ottilia|marianne|henriette;malan|malan|kock|chiesi|dubois;angrogna|angrogna|kirchheim|pise|rossenges;pensionnaire|pensionnaire|pensionnaire|pensionnaire|domestique;14156||19038|950|748;160
 4035;4 rurale;l'hermitage;;l'hermitage Bugnion;gabriel;schneeberger;1796;getaz;1805;sans enfant;sans enfant;ursenbach;fermier;18002;michel|charles jean|julie|louis;teuscher|burre?|gaudin|amaudruz;darstetten|st. stephan|lausanne|le mont-sur-lausanne;domestique|domestique|domestique|domestique;84|103;160
 4036;4 rurale;au coteau;;l'hermitage Bugnion;jean francois;rochat;1800;degrussy?;1794;sans enfant;sans enfant;l'abbaye;tier jardinier?;558;sans pensionnaires;·;·;·;·;160
