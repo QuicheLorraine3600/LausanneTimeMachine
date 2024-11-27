@@ -141,11 +141,8 @@ def find_person(person: Person, people: Iterable[Person]):
 
 start_at = time()
 
-MODE = "normal"   # <--- to track people in 1855 
-MODE = "children" # <--- to track children in 1855
-
-
-people_1835 = process_people(recens_1835, mode=MODE)
+# people_1835 = process_people(recens_1835, mode="normal") # <--- to track people in 1855 
+people_1835 = process_people(recens_1835, mode="children") # <--- to track children in 1855
 
 MIN_BIRTH_YEAR = 1745
 MAX_BIRTH_YEAR = 1855
