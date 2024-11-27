@@ -135,11 +135,8 @@ def find_person(person: Person, people: Iterable[Person]):
 
 start_at = time()
 
-MODE = "normal"   # <--- to track people in 1855 
-MODE = "children" # <--- to track children in 1855
-
-
-people_1835 = process_people(recens_1835, mode=MODE)
+# people_1835 = process_people(recens_1835, mode="normal") # <--- to track people in 1855 
+people_1835 = process_people(recens_1835, mode="children") # <--- to track children in 1855
 
 MIN_BIRTH_YEAR = 1745
 MAX_BIRTH_YEAR = 1855
@@ -160,8 +157,6 @@ print("RESULTS: ")
 number_of_birth_year_mismatches = 0
 for pair in tracked:
 	print(pair)
-	if MODE == "children":
-		print(f"My job is {pair[1].job} and my father was a {pair[0].parent_job()}")
 	if pair[0].birth_year != pair[1].birth_year and pair[0].birth_year != None and pair[1].birth_year != None:
 		print("î Birth year mismatch")
 		number_of_birth_year_mismatches += 1
