@@ -12,6 +12,7 @@ FIELD_STREET = "nom_rue"
 FIELD_HOUSE_NB = "no_maison"
 FIELD_BIRTH_YEAR = "chef_annee_naissance"
 FIELD_JOB = "chef_vocation"
+FIELD_ORIGIN = "chef_origine"
 FIELD_CHILDREN_FIRST_NAME = "enfants_dans_la_commune_prenom"
 FIELD_CHILDREN_BIRTH_YEAR = "enfants_annee_naissance"
 
@@ -33,13 +34,14 @@ def valid_year_or_None(year: object):
 	return None
 
 class Person:
-	def __init__(self, first_name: str, last_name: str, birth_year: object, street: str, house_nb, job: str, children: str, children_birth_years: str, parent: Optional["Person"] = None):
+	def __init__(self, first_name: str, last_name: str, birth_year: object, street: str, house_nb, job: str, origin: str, children: str, children_birth_years: str, parent: Optional["Person"] = None):
 		self.first_name: str = first_name
 		self.last_name: str = last_name
 		self.birth_year: Optional[int] = valid_year_or_None(birth_year)
 		self.street: str = street
 		self.house_nb = house_nb
 		self.job: str = job
+		self.origin = origin
 		self.parent: Optional["Person"] = parent
 
 		self.children: Iterable[str] = []
@@ -58,8 +60,12 @@ class Person:
 		if self.parent != None:
 			return self.parent.job
 
+	def parent_origin(self) -> Optional[str]:
+		if self.parent != None:
+			return self.parent.origin
+
 	def __str__(self) -> str:
-		return f"{self.first_name}, {self.last_name}, {self.birth_year}, {self.street}, {self.house_nb}, {self.job}, {self.children}, {self.parent_job()}"
+		return f"{self.first_name}, {self.last_name}, {self.birth_year}, {self.street}, {self.house_nb}, {self.job}, {self.origin}, {self.children}, {self.parent_job()} {self.parent_origin()}"
 	
 	def __repr__(self):
 		return f"\n{self.__str__()}"
@@ -82,7 +88,7 @@ def process_person(row: pd.Series, mode: str) -> Iterable[Person]:
 			children_birth_years = row[FIELD_CHILDREN_BIRTH_YEAR]
 		except KeyError:
 			children_birth_years = ""
-		person = Person(row[FIELD_FIRST_NAME], row[FIELD_LAST_NAME], row[FIELD_BIRTH_YEAR], row[FIELD_STREET], row[FIELD_HOUSE_NB], row[FIELD_JOB], row[FIELD_CHILDREN_FIRST_NAME], children_birth_years)
+		person = Person(row[FIELD_FIRST_NAME], row[FIELD_LAST_NAME], row[FIELD_BIRTH_YEAR], row[FIELD_STREET], row[FIELD_HOUSE_NB], row[FIELD_JOB], row[FIELD_ORIGIN], row[FIELD_CHILDREN_FIRST_NAME], children_birth_years)
 		
 		if mode == "normal":
 			return [person]
@@ -161,6 +167,7 @@ number_of_birth_year_mismatches = 0
 for pair in tracked:
 	print(pair)
 	if MODE == "children":
+		print(f"I'm from {pair[1].origin} and my father was from {pair[0].parent_origin()}")
 		print(f"My job is {pair[1].job} and my father was a {pair[0].parent_job()}")
 	if pair[0].birth_year != pair[1].birth_year and pair[0].birth_year != None and pair[1].birth_year != None:
 		print("î Birth year mismatch")
