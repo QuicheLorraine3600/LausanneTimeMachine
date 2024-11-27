@@ -60,12 +60,8 @@ class Person:
 		if self.parent != None:
 			return self.parent.job
 
-	def parent_origin(self) -> Optional[str]:
-		if self.parent != None:
-			return self.parent.origin
-
 	def __str__(self) -> str:
-		return f"{self.first_name}, {self.last_name}, {self.birth_year}, {self.street}, {self.house_nb}, {self.job}, {self.origin}, {self.children}, {self.parent_job()}, {self.parent_origin()}"
+		return f"{self.first_name}, {self.last_name}, {self.birth_year}, {self.street}, {self.house_nb}, {self.job}, {self.origin}, {self.children}, {self.parent_job()}"
 	
 	def __repr__(self):
 		return f"\n{self.__str__()}"
@@ -97,7 +93,7 @@ def process_person(row: pd.Series, mode: str) -> Iterable[Person]:
 			parent = person
 			children = []
 			for id, child_first_name in enumerate(parent.children):
-				child = Person(child_first_name, parent.last_name, parent.children_birth_years[id], parent.street, parent.house_nb, "", "", "", "", parent)
+				child = Person(child_first_name, parent.last_name, parent.children_birth_years[id], parent.street, parent.house_nb, "", parent.origin, "", "", parent)
 				children.append(child)
 			return children
 
@@ -120,6 +116,16 @@ def find_person(person: Person, people: Iterable[Person]):
 		if person.close_enough(candidate):
 			candidates.append(candidate)
 	if len(candidates) > 1:
+		if person.origin != "":
+			candidates_with_same_origin: Iterable[Person] = []
+			for candidate in candidates:
+				if are_close_enough(person.origin, candidate.origin):
+					candidates_with_same_origin.append(candidate)
+			if len(candidates_with_same_origin) == 1:
+				return candidates_with_same_origin[0]
+			elif len(candidates_with_same_origin) > 1:
+				candidates = candidates_with_same_origin	
+
 		if person.birth_year != None:
 			candidates_with_same_birth_year: Iterable[Person] = []
 			for candidate in candidates:
@@ -128,8 +134,17 @@ def find_person(person: Person, people: Iterable[Person]):
 			if len(candidates_with_same_birth_year) == 1:
 				return candidates_with_same_birth_year[0]
 			elif len(candidates_with_same_birth_year) > 1:
-				candidates = candidates_with_same_birth_year
-				print("NO WAY !!!")	
+				candidates = candidates_with_same_birth_year	
+
+		if person.street != "":
+			candidates_with_same_street: Iterable[Person] = []
+			for candidate in candidates:
+				if are_close_enough(person.street, candidate.street):
+					candidates_with_same_street.append(candidate)
+			if len(candidates_with_same_street) == 1:
+				return candidates_with_same_street[0]
+			elif len(candidates_with_same_street) > 1:
+				candidates = candidates_with_same_street		
 
 		print("SO MANY PEOPLE !")
 		print(person)
@@ -166,7 +181,7 @@ number_of_birth_year_mismatches = 0
 for pair in tracked:
 	print(pair)
 	if MODE == "children":
-		print(f"I'm from {pair[1].origin} and my father was from {pair[0].parent_origin()}")
+		print(f"I'm from {pair[1].origin} and my father was from {pair[0].origin}")
 		print(f"My job is {pair[1].job} and my father was a {pair[0].parent_job()}")
 	if pair[0].birth_year != pair[1].birth_year and pair[0].birth_year != None and pair[1].birth_year != None:
 		print("î Birth year mismatch")
