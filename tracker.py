@@ -65,7 +65,7 @@ class Person:
 			return self.parent.origin
 
 	def __str__(self) -> str:
-		return f"{self.first_name}, {self.last_name}, {self.birth_year}, {self.street}, {self.house_nb}, {self.job}, {self.origin}, {self.children}, {self.parent_job()} {self.parent_origin()}"
+		return f"{self.first_name}, {self.last_name}, {self.birth_year}, {self.street}, {self.house_nb}, {self.job}, {self.origin}, {self.children}, {self.parent_job()}, {self.parent_origin()}"
 	
 	def __repr__(self):
 		return f"\n{self.__str__()}"
@@ -97,7 +97,7 @@ def process_person(row: pd.Series, mode: str) -> Iterable[Person]:
 			parent = person
 			children = []
 			for id, child_first_name in enumerate(parent.children):
-				child = Person(child_first_name, parent.last_name, parent.children_birth_years[id], parent.street, parent.house_nb, "", "", "", parent)
+				child = Person(child_first_name, parent.last_name, parent.children_birth_years[id], parent.street, parent.house_nb, "", "", "", "", parent)
 				children.append(child)
 			return children
 
@@ -141,8 +141,10 @@ def find_person(person: Person, people: Iterable[Person]):
 
 start_at = time()
 
-# people_1835 = process_people(recens_1835, mode="normal") # <--- to track people in 1855 
-people_1835 = process_people(recens_1835, mode="children") # <--- to track children in 1855
+# MODE = "normal" # <--- to track people in 1855 
+MODE = "children" # <--- to track children in 1855
+
+people_1835 = process_people(recens_1835, mode=MODE)
 
 MIN_BIRTH_YEAR = 1745
 MAX_BIRTH_YEAR = 1855
