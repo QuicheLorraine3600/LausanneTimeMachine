@@ -1,2 +1,4 @@
 pandas
 levenshtein
+matplotlib
+seaborn
