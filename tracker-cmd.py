@@ -82,11 +82,13 @@ def process_people(recensement: pd.DataFrame, mode: str):
 			people.extend(person)
 	return people
 
-def find_person(person: Person, people: Iterable[Person]) -> Iterable[Person]:
+def find_person(person: Person, people: Iterable[Person]) -> tuple[Iterable[Person], str]:
 	candidates: Iterable[Person] = []
 	for candidate in people:
 		if person.close_enough_to(candidate):
 			candidates.append(candidate)
+	if len(candidates) == 1:
+		return [(candidates[0], "raison:nom")]
 	if len(candidates) > 1:
 		if person.origin != "":
 			candidates_with_same_origin: Iterable[Person] = []
@@ -94,7 +96,7 @@ def find_person(person: Person, people: Iterable[Person]) -> Iterable[Person]:
 				if are_close_enough(person.origin, candidate.origin):
 					candidates_with_same_origin.append(candidate)
 			if len(candidates_with_same_origin) == 1:
-				return [candidates_with_same_origin[0]]
+				return [(candidates_with_same_origin[0], "raison:origine")]
 			elif len(candidates_with_same_origin) > 1:
 				candidates = candidates_with_same_origin
 
@@ -104,7 +106,7 @@ def find_person(person: Person, people: Iterable[Person]) -> Iterable[Person]:
 				if person.birth_year == candidate.birth_year:
 					candidates_with_same_birth_year.append(candidate)
 			if len(candidates_with_same_birth_year) == 1:
-				return [candidates_with_same_birth_year[0]]
+				return [(candidates_with_same_birth_year[0], "raison:date")]
 			elif len(candidates_with_same_birth_year) > 1:
 				candidates = candidates_with_same_birth_year	
 
@@ -114,7 +116,7 @@ def find_person(person: Person, people: Iterable[Person]) -> Iterable[Person]:
 				if are_close_enough(person.street, candidate.street):
 					candidates_with_same_street.append(candidate)
 			if len(candidates_with_same_street) == 1:
-				return [candidates_with_same_street[0]]
+				return [(candidates_with_same_street[0], "raison:rue")]
 			elif len(candidates_with_same_street) > 1:
 				candidates = candidates_with_same_street
 	return candidates
@@ -151,8 +153,9 @@ def main(first_year, second_year, mode):
 				ambiguities += 1
 				first_year_people_for_next_pass.append(first_year_person)
 			elif len(candidates) == 1:
-				tracked.append((first_year_person, candidates[0]))
-				second_year_not_matched_people.remove(candidates[0])
+				candidate, reason = candidates[0]
+				tracked.append((first_year_person, candidate, reason))
+				second_year_not_matched_people.remove(candidate)
 				improved = True
 		first_year_not_matched_people = first_year_people_for_next_pass
 
@@ -161,12 +164,12 @@ def main(first_year, second_year, mode):
 
 
 	number_of_birth_year_mismatches = 0
-	for pair in tracked:
-		print(pair)
+	for person_in_first_year, person_in_second_year, reason in tracked:
+		print((person_in_first_year, person_in_second_year, reason))
 		if mode == "children":
-			print(f"I'm from {pair[1].origin} and my father was from {pair[0].origin}")
-			print(f"My job is {pair[1].job} and my father was a {pair[0].parent_job()}")
-		if pair[0].birth_year != pair[1].birth_year and pair[0].birth_year != None and pair[1].birth_year != None:
+			print(f"I'm from {person_in_second_year.origin} and my father was from {person_in_first_year.origin}")
+			print(f"My job is {person_in_second_year.job} and my father was a {person_in_first_year.parent_job()}")
+		if person_in_first_year.birth_year != person_in_second_year.birth_year and person_in_first_year.birth_year != None and person_in_second_year.birth_year != None:
 			print("î Birth year mismatch")
 			number_of_birth_year_mismatches += 1
 
