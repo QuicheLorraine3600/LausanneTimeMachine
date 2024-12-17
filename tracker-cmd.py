@@ -142,8 +142,9 @@ def main(first_year, second_year, mode):
 	ambiguities = 0
 	tracked: Iterable[Tuple[Person, Person]] = []
 
-	while True:
-		improved = False
+	improvement = True
+	while improvement:
+		improvement = False
 		
 		ambiguities = 0
 		first_year_people_for_next_pass = []
@@ -156,11 +157,10 @@ def main(first_year, second_year, mode):
 				candidate, reason = candidates[0]
 				tracked.append((first_year_person, candidate, reason))
 				second_year_not_matched_people.remove(candidate)
-				improved = True
+				improvement = True
+
 		first_year_not_matched_people = first_year_people_for_next_pass
 
-		if not improved:
-			break
 
 
 	number_of_birth_year_mismatches = 0
